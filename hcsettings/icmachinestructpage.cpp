@@ -255,6 +255,9 @@ void ICMachineStructPage::SetCurrentAxis(int axis)
     ui->maximumDisplacementLineEdit->setValidator(maximumValidator_);
     ui->mechanicalLengthLineEdit->setValidator(intValidator);
     intValidator->setTop(65530);
+    ui->label_2->setVisible(!ICParametersSave::Instance()->IsAbsServo());
+    ui->label_4->setVisible(ui->label_2->isVisible());
+    ui->maximumDisplacementLineEdit->setVisible(ui->label_2->isVisible());
     if(currentAxis_ == ICVirtualHost::ICAxis_AxisX1)
     {
         machineLangth = ICVirtualHost::SYS_X_Length;
