@@ -2279,75 +2279,6 @@ retardo:</translation>
     </message>
 </context>
 <context>
-    <name>ICCutModuleActionPage</name>
-    <message>
-        <source>X1:</source>
-        <translation type="obsolete">X1:</translation>
-    </message>
-    <message>
-        <source>80</source>
-        <translation type="obsolete">80</translation>
-    </message>
-    <message>
-        <source>Fixture-1</source>
-        <translation type="obsolete">Accesorio-1</translation>
-    </message>
-    <message>
-        <source>Fixture-2</source>
-        <translation type="obsolete">Accesorio-2</translation>
-    </message>
-    <message>
-        <source>Fixture-3</source>
-        <translation type="obsolete">Accesorio-3</translation>
-    </message>
-    <message>
-        <source>Sucker-1</source>
-        <translation type="obsolete">chupador1</translation>
-    </message>
-    <message>
-        <source>Sucker-3</source>
-        <translation type="obsolete">Chup-
-ador-3</translation>
-    </message>
-    <message>
-        <source>Sucker-4</source>
-        <translation type="obsolete">Chup-
-ador 4</translation>
-    </message>
-    <message>
-        <source>Reserve-1</source>
-        <translation type="obsolete">Reservar 1</translation>
-    </message>
-    <message>
-        <source>Reserve-2</source>
-        <translation type="obsolete">Reservar2</translation>
-    </message>
-    <message>
-        <source>Reserve-3</source>
-        <translation type="obsolete">Reservar3</translation>
-    </message>
-    <message>
-        <source>Reserve-4</source>
-        <translation type="obsolete">Reservar4</translation>
-    </message>
-    <message>
-        <source>0.50</source>
-        <translation type="obsolete">0.50</translation>
-    </message>
-    <message>
-        <source>0.00</source>
-        <translation type="obsolete">0.00</translation>
-    </message>
-    <message>
-        <source>Set In</source>
-        <translation type="obsolete">guardar</translation>
-    </message>
-    <message>
-        <source>Y1:</source>
-        <translation type="obsolete">Y1:</translation>
-    </message>
-</context>
-<context>
     <name>ICCutPage</name>
     <message>
         <location filename="hcinstruction/iccutpage.ui" line="14"/>
@@ -2660,19 +2591,19 @@ producto en el-molde</translation>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
         <source>Fixture1  </source>
-        <translation type="unfinished">Accesorio-4 {1 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
         <source>Fixture2  </source>
-        <translation type="unfinished">Accesorio-4 {2 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
         <source>Fixture3  </source>
-        <translation type="unfinished">Accesorio-4 {3 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
@@ -2684,13 +2615,13 @@ producto en el-molde</translation>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="16"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="106"/>
         <source>Sucker1   </source>
-        <translation type="unfinished">Chupador-3 {1 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="16"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="106"/>
         <source>Sucker2   </source>
-        <translation type="unfinished">Chupador-3 {2 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="17"/>
@@ -2708,13 +2639,13 @@ producto en el-molde</translation>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="18"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="108"/>
         <source>Sucker5   </source>
-        <translation type="unfinished">Chupador-3 {5 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="18"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="108"/>
         <source>Sucker6   </source>
-        <translation type="unfinished">Chupador-3 {6 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="19"/>
@@ -2726,7 +2657,7 @@ producto en el-molde</translation>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="19"/>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="109"/>
         <source>Sucker8   </source>
-        <translation type="unfinished">Chupador-3 {8 ?}</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcinstruction/icguidefixtureeditor.cpp" line="212"/>
@@ -2766,7 +2697,8 @@ producción</translation>
         <location filename="hcinstruction/ichcconditionpage.ui" line="321"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="131"/>
         <source>Product Count</source>
-        <translation>Conde de molde</translation>
+        <translation>Conde de
+ molde</translation>
     </message>
     <message>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="144"/>
@@ -2898,6 +2830,42 @@ malo</translation>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="554"/>
         <source>Use Macro</source>
         <translation>Uso</translation>
+    </message>
+    <message>
+        <source>X045</source>
+        <translation type="obsolete">X045</translation>
+    </message>
+    <message>
+        <source>ON</source>
+        <translation type="obsolete">On</translation>
+    </message>
+    <message>
+        <source>OFF</source>
+        <translation type="obsolete">OFF</translation>
+    </message>
+    <message>
+        <source>X046</source>
+        <translation type="obsolete">X046</translation>
+    </message>
+    <message>
+        <source>X047</source>
+        <translation type="obsolete">X047</translation>
+    </message>
+    <message>
+        <source>X026</source>
+        <translation type="obsolete">X026</translation>
+    </message>
+    <message>
+        <source>X040</source>
+        <translation type="obsolete">X040</translation>
+    </message>
+    <message>
+        <source>X023</source>
+        <translation type="obsolete">X023</translation>
+    </message>
+    <message>
+        <source>X037</source>
+        <translation type="obsolete">X037</translation>
     </message>
     <message>
         <location filename="hcinstruction/ichcconditionpage.ui" line="160"/>
@@ -4568,20 +4536,20 @@ de ciclo</translation>
         <translation>Configuraciones de sistema</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="79"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="76"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="88"/>
         <source>Key Tone(On)</source>
         <translation>Tono de 
 la tecla (ON)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="120"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="117"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="129"/>
         <source>Calibration</source>
         <translation>Calibración</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="131"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="245"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="140"/>
         <source>Language:</source>
         <translation>Idioma:</translation>
@@ -4597,496 +4565,496 @@ la tecla (ON)</translation>
         <translation>English</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="368"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="558"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="237"/>
         <source>Data Time:</source>
         <translation>tiempo y fecha</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="421"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="611"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="290"/>
         <source>yyyy / MM  /  dd   hh : mm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="448"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="638"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="317"/>
         <source>Back Light Time:</source>
         <translation>Tiempo de luz:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="458"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="648"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="334"/>
         <source>min</source>
         <translation>Minuto</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="485"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="675"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="361"/>
         <source>Brightness</source>
         <translation>Brillo</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="598"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="775"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="471"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="290"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="336"/>
         <source>Save</source>
         <translation>guardar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="636"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="813"/>
         <source>Memory fix</source>
         <translation>Guardar y
  reparación</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="653"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="843"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="494"/>
         <source>Level Management</source>
         <translation>Control de límite</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="674"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="864"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="515"/>
         <source>Level</source>
         <translation>Nivel</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="706"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="896"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="547"/>
         <source>Machine Admin</source>
         <translation>Admin de máquina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="744"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="934"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="591"/>
         <source>Advance Admin</source>
         <translation>Admin superior</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="757"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="947"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="604"/>
         <source>Old Password</source>
         <translation>Contraseña antigua</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="783"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="973"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="633"/>
         <source>New Password</source>
         <translation>Contraseña nueva</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="827"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1017"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="680"/>
         <source>Change</source>
         <translation>Cambio</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="852"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1042"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="705"/>
         <source>Clear</source>
         <translation>eliminar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="863"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1053"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="716"/>
         <source>Admin Settings</source>
         <translation>Configuraciones de admin</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1091"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1281"/>
         <source>Teach</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1104"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1294"/>
         <source>Program Mode:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1209"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1399"/>
         <source>Simple</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1222"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1412"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="754"/>
         <source>Extent Function</source>
         <translation>Función
 extendida</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1174"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1260"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1364"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1450"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="792"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="840"/>
         <source>Use</source>
         <translation>Uso</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="973"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1139"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1163"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1329"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="722"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="991"/>
         <source>Verify</source>
         <translation>Verificar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1270"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1460"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="802"/>
         <source>Limit Function</source>
         <translation>Función de
  registro</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="890"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="953"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1080"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1143"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="856"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="943"/>
         <source>Register</source>
         <translation>Registrar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="910"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1100"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="876"/>
         <source>MachineCode:</source>
         <translation>Código de máquina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="917"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1107"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="895"/>
         <source>Generate</source>
         <translation>Generar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="930"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1120"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="908"/>
         <source>RegisterCode:</source>
         <translation>Registro Código:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1044"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1234"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="971"/>
         <source>RestTime:</source>
         <translation>tiempo restante</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="999"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1189"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1017"/>
         <source>Factory Code:</source>
         <translation>Factory Code:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1282"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1472"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1045"/>
         <source>BackUp/Restore</source>
         <translation>Copia de seguridad/restaurar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1290"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1480"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1053"/>
         <source>Backup</source>
         <translation>Apoyo</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1302"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1492"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1065"/>
         <source>Backup Machine Configures</source>
         <translation>Máquina de copia de
 seguridad se configura</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1315"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1505"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1078"/>
         <source>Backup System Configures</source>
         <translation>Configuraciones de
 sistema de copia de seguridad</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1328"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1518"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1091"/>
         <source>Backup All</source>
         <translation>Copia de seguridad
 de todos</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1338"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1528"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1101"/>
         <source>Restore</source>
         <translation>Restaurar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1350"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1540"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1113"/>
         <source>Restore Machine Configures</source>
         <translation>restaurar las
 configuraciones de máquina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1363"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1553"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1126"/>
         <source>Restore System Configures</source>
         <translation>Restaurar
 configuraciones de sistema </translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1376"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1566"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1139"/>
         <source>Restore All</source>
         <translation>Restaurar lo todo</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1418"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1608"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1181"/>
         <source>umount</source>
         <translation>umount</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="78"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="83"/>
         <source>None</source>
         <translation>Nada</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="79"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="84"/>
         <source>Only Backward Limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="80"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="85"/>
         <source>Only Forward Limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="81"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="86"/>
         <source>Both</source>
         <translation>Ambos</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="82"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="87"/>
         <source>Only Up Limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="83"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="88"/>
         <source>Up and Donw Limit</source>
         <translation>Límite de subir y bajar</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="84"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="89"/>
         <source>Single Arm</source>
         <translation>Alarma sola</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="85"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="90"/>
         <source>Double Arm</source>
         <translation>Brazo doble</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="150"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="223"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="298"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="166"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="269"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="344"/>
         <source>Key Tone(ON)</source>
         <translation>Tono de 
 la tecla (ON)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="157"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="228"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="305"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="173"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="274"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="351"/>
         <source>Key Tone(OFF)</source>
         <translation>Tono de
 la tecla (off)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="269"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1047"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="315"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1093"/>
         <source>No Limit</source>
         <translation>No límite</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="273"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1051"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="319"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1097"/>
         <source>hour</source>
         <translation>hora</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="287"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="333"/>
         <source>Set to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="300"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="346"/>
         <source>ON</source>
         <translation>On</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="307"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="353"/>
         <source>OFF</source>
         <translation>OFF</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="319"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="346"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="444"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="448"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="365"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="392"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="490"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="494"/>
         <source>Information</source>
         <translation>Sugerencia</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="320"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="366"/>
         <source>Please enter the old password and new password!</source>
         <translation>Por favor, ¡introduzca la contraseña antigua y nueva!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="338"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="403"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="425"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="487"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="530"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="564"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="713"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="877"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1083"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="384"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="449"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="471"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="533"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="576"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="610"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="759"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="923"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1129"/>
         <source>Warning</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="339"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="385"/>
         <source>Old password is wrong!</source>
         <translation>¡Antigua contraseña está mal!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="347"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="393"/>
         <source>Change password successfully!</source>
         <translation>¡Cambiar contraseña con éxito!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="403"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="425"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="487"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="530"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="564"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="713"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="449"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="471"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="533"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="576"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="610"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="759"/>
         <source>USB is not connected!</source>
         <translation>¡USB no está conectado!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="406"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="428"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="493"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="452"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="474"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="539"/>
         <source>Backuping, please wait...</source>
         <translation>Está guardando la copia, por favor, espere…</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="444"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="490"/>
         <source>Operation finished!</source>
         <translation>Operación termina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="448"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="494"/>
         <source>Operation fail!</source>
         <translation>¡Operación falla!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="533"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="567"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="718"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="579"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="613"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="764"/>
         <source>Restoring, please wait...</source>
         <translation>Restaurando, por favor, espere…</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="543"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="575"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="589"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="621"/>
         <source>Backup files is broken!</source>
         <translation>¡Los archivos de copia de Seguridad están rotos!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="756"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="769"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="776"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="798"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="928"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="933"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="955"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="960"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="972"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="983"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="802"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="815"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="822"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="844"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="974"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="979"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1001"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1006"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1018"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1029"/>
         <source>Warnning</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="756"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="802"/>
         <source>%1 wrong program format! Will skip this record!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="769"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="776"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="815"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="822"/>
         <source>%1 wrong config format! Will skip this record!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="798"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="844"/>
         <source>%1 wrong program format! Will skip this sub!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="871"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="917"/>
         <source>
 App %1; Host:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="878"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="924"/>
         <source>The system will be reboot to calibrate! Do you want to continue?</source>
         <translation>¡El sistema se reinicia para calibrar! ¿Quieres continuar?</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="882"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="928"/>
         <source>Recal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="899"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="945"/>
         <source>Tune down to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="913"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="959"/>
         <source>Tune up to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="928"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="933"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="974"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="979"/>
         <source>Wrong system config format!</source>
         <translation>¡Mal formato de configuración del sistema!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="955"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="960"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1001"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1006"/>
         <source>Wrong Axis config format!</source>
         <translation>¡Forma de configuraciones de eje no correcta!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="972"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="983"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1018"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1029"/>
         <source>Wrong Rotation config format!</source>
         <translation>Formato de configuración de rotación malo</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1032"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1038"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1078"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1084"/>
         <source>Wrong Register Code!</source>
         <translation>Código de registro no correcto</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1044"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1090"/>
         <source>Register Success!</source>
         <translation>¡Registra con éxito!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1084"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1130"/>
         <source>The system will be for storage to repair ! Do you want to continue?</source>
         <translation>El sistema será para el almacenamiento de reparar! ¿Quieres continuar?</translation>
     </message>
@@ -6088,6 +6056,38 @@ de eje B</translation>
         <location filename="hcinstruction/icinstructparam.cpp" line="422"/>
         <source>ON</source>
         <translation type="unfinished">On</translation>
+    </message>
+    <message>
+        <source>X012 </source>
+        <translation type="obsolete">X012 </translation>
+    </message>
+    <message>
+        <source>X013 </source>
+        <translation type="obsolete">X013 </translation>
+    </message>
+    <message>
+        <source>X034 </source>
+        <translation type="obsolete">X034 </translation>
+    </message>
+    <message>
+        <source>X021 </source>
+        <translation type="obsolete">X021 </translation>
+    </message>
+    <message>
+        <source>X015 </source>
+        <translation type="obsolete">X015 </translation>
+    </message>
+    <message>
+        <source>X014 </source>
+        <translation type="obsolete">X014 </translation>
+    </message>
+    <message>
+        <source>X017 </source>
+        <translation type="obsolete">X017 </translation>
+    </message>
+    <message>
+        <source>X036 </source>
+        <translation type="obsolete">X036 </translation>
     </message>
     <message>
         <location filename="hcinstruction/icinstructparam.cpp" line="422"/>
@@ -9268,6 +9268,20 @@ de producción</translation>
         <translation>Límite adelante</translation>
     </message>
     <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2268"/>
+        <source>ABS Servo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2278"/>
+        <source>Orgin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">Origen</translation>
+    </message>
+    <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1856"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="1862"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1904"/>
@@ -9276,6 +9290,16 @@ de producción</translation>
         <location filename="hcsettings/icstructdefineframe.cpp" line="366"/>
         <source>Other Define</source>
         <translation>Otra definición</translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1868"/>
+        <source>%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1916"/>
+        <source>Origin Speed</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1954"/>
@@ -9380,26 +9404,6 @@ de mol</translation>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="2216"/>
         <source>s</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1916"/>
-        <source>Origin Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1868"/>
-        <source>%</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2268"/>
-        <source>ABS Servo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2278"/>
-        <source>Orgin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10238,16 +10242,6 @@ USB</translation>
 molde</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.ui" line="106"/>
-        <source>Search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="function_settings/moldinformation.ui" line="240"/>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="function_settings/moldinformation.ui" line="366"/>
         <location filename="function_settings/moldinformation_5.ui" line="258"/>
         <source>Create Date</source>
@@ -10290,6 +10284,16 @@ ortar</translation>
         <source>Import</source>
         <translation type="unfinished">Imp-
 ortar</translation>
+    </message>
+    <message>
+        <location filename="function_settings/moldinformation.ui" line="106"/>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="function_settings/moldinformation.ui" line="240"/>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="function_settings/moldinformation.ui" line="174"/>

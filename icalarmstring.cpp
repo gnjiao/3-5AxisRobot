@@ -16,12 +16,22 @@ ICAlarmString::ICAlarmString()
       AlarmNederlandInfoPathName(":/sysconfig/alarminfomation-nl"),
       AlarmFranceInfoPathName(":/sysconfig/alarminfomation-fr"),
       AlarmKoreaInfoPathName(":/sysconfig/alarminfomation-kr"),
+      AlarmHongKongInfoPathName(":/sysconfig/alarminfomation-hk"),
+      AlarmItalyInfoPathName(":/sysconfig/alarminfomation-it"),
+      AlarmPolishInfoPathName(":/sysconfig/alarminfomation-pl"),
+      AlarmTurkeyInfoPathName(":/sysconfig/alarminfomation-tr"),
+      AlarmPortugalInfoPathName(":/sysconfig/alarminfomation-pt"),
       HintChInfoPathName(":/sysconfig/hintinfomation-ch"),
       HintEnInfoPathName(":/sysconfig/hintinfomation-en"),
       HintEspInfoPathName(":/sysconfig/hintinfomation-esp"),
       HintNederlandInfoPathName(":/sysconfig/hintinfomation-nl"),
       HintFranceInfoPathName(":/sysconfig/hintinfomation-fr"),
       HintKoreaInfoPathName(":/sysconfig/hintinfomation-kr"),
+      HintHongKongInfoPathName(":/sysconfig/hintinfomation-hk"),
+      HintItalyInfoPathName(":/sysconfig/hintinfomation-it"),
+      HintPolishInfoPathName(":/sysconfig/hintinfomation-pl"),
+      HintTurkeyInfoPathName(":/sysconfig/hintinfomation-tr"),
+      HintPortugalInfoPathName(":/sysconfig/hintinfomation-pt"),
       priorAlarmNum_(-1)
 {
     //    OnCurrentLanguageChanged(ICParameterSaves::Instance()->Language());
@@ -50,17 +60,37 @@ void ICAlarmString::OnCurrentLanguageChanged()
         alarmChInfoFile.setFileName(AlarmSpanishInfoPathName);
         hintFile.setFileName(HintEspInfoPathName);
         break;
-    case QLocale::Netherlands:
+    case QLocale::Dutch:
         alarmChInfoFile.setFileName(AlarmNederlandInfoPathName);
         hintFile.setFileName(HintNederlandInfoPathName);
         break;
-    case QLocale::France:
+    case QLocale::French:
         alarmChInfoFile.setFileName(AlarmFranceInfoPathName);
         hintFile.setFileName(HintFranceInfoPathName);
         break;
     case QLocale::Korean:
         alarmChInfoFile.setFileName(AlarmKoreaInfoPathName);
         hintFile.setFileName(HintKoreaInfoPathName);
+        break;
+    case QLocale::AnyLanguage:
+        alarmChInfoFile.setFileName(AlarmHongKongInfoPathName);
+        hintFile.setFileName(HintHongKongInfoPathName);
+        break;
+    case QLocale::Italian:
+        alarmChInfoFile.setFileName(AlarmItalyInfoPathName);
+        hintFile.setFileName(HintItalyInfoPathName);
+        break;
+    case QLocale::Polish:
+        alarmChInfoFile.setFileName(AlarmPolishInfoPathName);
+        hintFile.setFileName(HintPolishInfoPathName);
+        break;
+    case QLocale::Turkish:
+        alarmChInfoFile.setFileName(AlarmTurkeyInfoPathName);
+        hintFile.setFileName(HintTurkeyInfoPathName);
+        break;
+    case QLocale::Portuguese:
+        alarmChInfoFile.setFileName(AlarmPortugalInfoPathName);
+        hintFile.setFileName(HintPortugalInfoPathName);
         break;
     default:
         return;

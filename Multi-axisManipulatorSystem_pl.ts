@@ -33,7 +33,7 @@
     </message>
     <message>
         <location filename="hcinstruction/actionsettingframe.ui" line="286"/>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1473"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1493"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="97"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1023"/>
         <source>Horizon-2</source>
@@ -41,7 +41,7 @@
     </message>
     <message>
         <location filename="hcinstruction/actionsettingframe.ui" line="327"/>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1514"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1534"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="138"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1064"/>
         <source>Vertical-2</source>
@@ -49,7 +49,7 @@
     </message>
     <message>
         <location filename="hcinstruction/actionsettingframe.ui" line="625"/>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1142"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1162"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="684"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1315"/>
         <source>Up</source>
@@ -57,98 +57,98 @@
     </message>
     <message>
         <location filename="hcinstruction/actionsettingframe.ui" line="666"/>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1183"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1203"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="725"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1356"/>
         <source>Down</source>
         <translation type="unfinished">W dół</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="729"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="734"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1431"/>
         <source>GZ</source>
         <translation type="unfinished">GZ</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="779"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="789"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1631"/>
         <source>GY2</source>
         <translation type="unfinished">GY2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="845"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="855"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="866"/>
         <source>Come In</source>
         <translation type="unfinished">Wsuwanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="886"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="896"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="907"/>
         <source>Come Out</source>
         <translation type="unfinished">Come Out</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="971"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="981"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1697"/>
         <source>GA</source>
         <translation type="unfinished">GA</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1006"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1021"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1744"/>
         <source>GX1</source>
         <translation type="unfinished">GX1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1054"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1074"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="213"/>
         <source>GX2</source>
         <translation type="unfinished">GX2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1246"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1266"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="800"/>
         <source>GB</source>
         <translation type="unfinished">GB</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1268"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1288"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1653"/>
         <source>Set=&gt;</source>
         <translation type="unfinished">Ustaw=&gt;</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1275"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1295"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1767"/>
         <source>Delay(s)</source>
         <translation type="unfinished">Opóźnienie(a)</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1338"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1358"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1180"/>
         <source>Horizon-1</source>
         <translation type="unfinished">Poziomo-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1379"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1399"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="1221"/>
         <source>Vertical-1</source>
         <translation type="unfinished">Pionowo-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1574"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1594"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="530"/>
         <source>   Pos                </source>
         <translation type="unfinished">   Poz.                </translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1606"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1631"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="574"/>
         <source>GY1</source>
         <translation type="unfinished">GY1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/actionsettingframe.ui" line="1650"/>
+        <location filename="hcinstruction/actionsettingframe.ui" line="1675"/>
         <location filename="hcinstruction/actionsettingframe_5.ui" line="618"/>
         <source>Speed(%)</source>
         <translation type="unfinished">Prędkość(%)</translation>
@@ -177,14 +177,14 @@
     <message>
         <location filename="hcsettings/axissettingsframe.ui" line="107"/>
         <location filename="hcsettings/axissettingsframe_5.ui" line="116"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="135"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="139"/>
         <source>Internal security zone</source>
         <translation type="unfinished">Wewn. strefa bezpieczeństwa</translation>
     </message>
     <message>
         <location filename="hcsettings/axissettingsframe.ui" line="133"/>
         <location filename="hcsettings/axissettingsframe_5.ui" line="151"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="136"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="140"/>
         <source>External security zone</source>
         <translation type="unfinished">Zewn. strefa bezpieczeństwa</translation>
     </message>
@@ -199,8 +199,8 @@
         <location filename="hcsettings/axissettingsframe_5.ui" line="224"/>
         <location filename="hcsettings/axissettingsframe_5.ui" line="243"/>
         <location filename="hcsettings/axissettingsframe_5.ui" line="316"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="94"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="95"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="98"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="99"/>
         <source>mm</source>
         <translation type="unfinished">mm</translation>
     </message>
@@ -265,65 +265,65 @@
         <translation type="unfinished">Ustawienie</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="106"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="149"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="110"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="153"/>
         <source>Min pos inside mold</source>
         <translation type="unfinished">Min. poz. wewnątrz formy</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="107"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="150"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="111"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="154"/>
         <source>Max pos inside mold</source>
         <translation type="unfinished">Maks. poz. wewnątrz formy</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="120"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="162"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="124"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="166"/>
         <source>Max standby pos</source>
         <translation type="unfinished">Maks. poz. oczekiwania</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="121"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="163"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="125"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="167"/>
         <source>Leave origin pos</source>
         <translation type="unfinished">Opuszczanie poz. początkowej</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="179"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="196"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="211"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="183"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="200"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="215"/>
         <source>Transeve security zone(Less)</source>
         <translation type="unfinished">Transeve security zone(Less)</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="180"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="197"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="212"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="184"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="201"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="216"/>
         <source>Transeve security zone(Lagger)</source>
         <translation type="unfinished">Transeve security zone(Lagger)</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="181"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="182"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="198"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="199"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="213"/>
-        <location filename="hcsettings/axissettingsframe.cpp" line="214"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="185"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="186"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="202"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="203"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="217"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="218"/>
         <source>degree</source>
         <translation type="unfinished">stopień</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="436"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="440"/>
         <source>Information</source>
         <translation type="unfinished">Informacja</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="436"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="440"/>
         <source>Save Successfully!</source>
         <translation type="unfinished">Zapis udany!</translation>
     </message>
     <message>
-        <location filename="hcsettings/axissettingsframe.cpp" line="437"/>
+        <location filename="hcsettings/axissettingsframe.cpp" line="441"/>
         <source>Save</source>
         <translation type="unfinished">Zapisz</translation>
     </message>
@@ -889,7 +889,7 @@ Zmień Czas</translation>
     </message>
     <message>
         <location filename="hcinstruction/icautorunrevise.ui" line="79"/>
-        <location filename="hcinstruction/icautorunrevise.cpp" line="100"/>
+        <location filename="hcinstruction/icautorunrevise.cpp" line="101"/>
         <source>Limit Time:</source>
         <translation type="unfinished">Limit czasu:</translation>
     </message>
@@ -2442,6 +2442,126 @@ Zmień Czas</translation>
     </message>
 </context>
 <context>
+    <name>ICGuideFixtureEditor</name>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="66"/>
+        <source>Cancel All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="134"/>
+        <source>Fixture</source>
+        <translation type="unfinished">Uchwyt</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="139"/>
+        <source>Name</source>
+        <translation type="unfinished">Nazwa</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="144"/>
+        <source>Is Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="409"/>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.ui" line="419"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
+        <source>Fixture1  </source>
+        <translation type="unfinished">Uchwyt1  </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
+        <source>Fixture2  </source>
+        <translation type="unfinished">Uchwyt2  </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
+        <source>Fixture3  </source>
+        <translation type="unfinished">Uchwyt3  </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="15"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="105"/>
+        <source>Fixture4  </source>
+        <translation type="unfinished">Uchwyt4  </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="16"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="106"/>
+        <source>Sucker1   </source>
+        <translation type="unfinished">Ssawka1   </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="16"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="106"/>
+        <source>Sucker2   </source>
+        <translation type="unfinished">Ssawka2   </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="17"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="107"/>
+        <source>Sucker3   </source>
+        <translation type="unfinished">Ssawka3   </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="17"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="107"/>
+        <source>Sucker4   </source>
+        <translation type="unfinished">Ssawka4   </translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="18"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="108"/>
+        <source>Sucker5   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="18"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="108"/>
+        <source>Sucker6   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="19"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="109"/>
+        <source>Sucker7   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="19"/>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="109"/>
+        <source>Sucker8   </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="212"/>
+        <source>%1[Check]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icguidefixtureeditor.cpp" line="217"/>
+        <source>None</source>
+        <translation type="unfinished">Brak</translation>
+    </message>
+</context>
+<context>
     <name>ICHCConditionPage</name>
     <message>
         <location filename="hcinstruction/ichcconditionpage.ui" line="14"/>
@@ -2450,57 +2570,57 @@ Zmień Czas</translation>
         <translation type="unfinished">Rama</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="71"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="41"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="41"/>
         <source>Conditions</source>
         <translation type="unfinished">Warunki</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="129"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="105"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="574"/>
         <source>Sub-1</source>
         <translation type="unfinished">Sub-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="134"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="110"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="579"/>
         <source>Sub-2</source>
         <translation type="unfinished">Sub-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="139"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="115"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="584"/>
         <source>Sub-3</source>
         <translation type="unfinished">Sub-3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="144"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="120"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="589"/>
         <source>Sub-4</source>
         <translation type="unfinished">Sub-4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="149"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="125"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="594"/>
         <source>Sub-5</source>
         <translation type="unfinished">Sub-5</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="154"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="130"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="599"/>
         <source>Bad Product</source>
         <translation type="unfinished">Zły produkt</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="159"/>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="757"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="135"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="648"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="447"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="604"/>
         <source>Sampling</source>
         <translation type="unfinished">Próbkowanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="164"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="140"/>
         <location filename="hcinstruction/ichcconditionpage.ui" line="476"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="99"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="609"/>
@@ -2508,133 +2628,112 @@ Zmień Czas</translation>
         <translation type="unfinished">Wypróbuj produkt</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="190"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="160"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="617"/>
         <source>Go to flag</source>
         <translation type="unfinished">Przejdź do flagi</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="215"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="179"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="554"/>
         <source>Use Macro</source>
         <translation type="unfinished">Użyj makra</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="260"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="282"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="351"/>
         <source>Sucker-2</source>
         <translation type="unfinished">Ssawka-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="298"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="616"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="176"/>
         <source>Fixture-1</source>
         <translation type="unfinished">Uchwyt-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="330"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="321"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="131"/>
         <source>Product Count</source>
         <translation type="unfinished">Licznik produktów</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="368"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="578"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="287"/>
         <source>Fixture-4</source>
         <translation type="unfinished">Uchwyt-4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="406"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="250"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="383"/>
         <source>Sucker-1</source>
         <translation type="unfinished">Ssawka-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="438"/>
-        <source>X047</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="514"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="686"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="319"/>
         <source>Fixture-2</source>
         <translation type="unfinished">Uchwyt-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="546"/>
         <source>X040</source>
-        <translation type="unfinished">X040</translation>
+        <translation type="obsolete">X040</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="597"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="438"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="415"/>
         <source>X043</source>
         <translation type="unfinished">X043</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="629"/>
         <source>X037</source>
-        <translation type="unfinished">X037</translation>
+        <translation type="obsolete">X037</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="661"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="508"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="511"/>
         <source>Sucker-3</source>
         <translation type="unfinished">Ssawka-3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="693"/>
         <source>X023</source>
-        <translation type="unfinished">X023</translation>
+        <translation type="obsolete">X023</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="725"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="540"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="479"/>
         <source>X044</source>
         <translation type="unfinished">X044</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="795"/>
-        <source>X046</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="839"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="365"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="252"/>
         <source>Defective Products</source>
         <translation type="unfinished">Wadliwe produkty</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="880"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="406"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="208"/>
         <source>Fixture-3</source>
         <translation type="unfinished">Uchwyt-3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="912"/>
+        <location filename="hcinstruction/ichcconditionpage.ui" line="218"/>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="543"/>
         <source>Sucker-4</source>
         <translation type="unfinished">Ssawka-4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="944"/>
-        <source>X045</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="976"/>
         <source>X026</source>
-        <translation type="unfinished">X026</translation>
+        <translation type="obsolete">X026</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="1008"/>
         <source>ON</source>
-        <translation type="unfinished">ON</translation>
+        <translation type="obsolete">ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcconditionpage.ui" line="1040"/>
         <source>OFF</source>
-        <translation type="unfinished">OFF</translation>
+        <translation type="obsolete">OFF</translation>
     </message>
     <message>
         <location filename="hcinstruction/ichcconditionpage_5.ui" line="144"/>
@@ -3146,206 +3245,206 @@ Zmień Czas</translation>
         <translation type="unfinished">Rama</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="121"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="312"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="285"/>
         <source>Line</source>
         <translation type="unfinished">Linia</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="159"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="540"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="513"/>
         <source>Stack</source>
         <translation type="unfinished">Stos</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="197"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="350"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="323"/>
         <source>Fixture</source>
         <translation type="unfinished">Uchwyt</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="235"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="388"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="361"/>
         <source>Injection</source>
         <translation type="unfinished">Wtrysk</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="273"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="502"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="475"/>
         <source>Periphery</source>
         <translation type="unfinished">Peryferyjne</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="311"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="464"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="437"/>
         <source>Reserve</source>
         <translation type="unfinished">Rezerwa</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="349"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="578"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="551"/>
         <source>Cut</source>
         <translation type="unfinished">Cięcie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="387"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="426"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="399"/>
         <source>Wait</source>
         <translation type="unfinished">Oczekiwanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="425"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="616"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="627"/>
         <source>Other</source>
         <translation type="unfinished">Manipulator I/O</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="463"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="654"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="665"/>
         <source>Conditions</source>
         <translation type="unfinished">Warunki</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="501"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="692"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="703"/>
         <source>Comment</source>
         <translation type="unfinished">Uwaga</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="539"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="730"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="589"/>
         <source>Flags</source>
         <translation type="unfinished">Flagi</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="577"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="768"/>
         <source>Curve</source>
         <translation type="unfinished">Krzywa</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="608"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="80"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="64"/>
         <source>Editing:</source>
         <translation type="unfinished">Edycja:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="615"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="87"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="71"/>
         <source>Main</source>
         <translation type="unfinished">Główny</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="661"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="133"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="117"/>
         <source>Guide</source>
         <translation type="unfinished">Prowadnica</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="707"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="179"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="159"/>
         <source>Program</source>
         <translation type="unfinished">Program</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="798"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="814"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="752"/>
         <source>Modify</source>
         <translation type="unfinished">Modyfikacja</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="836"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="852"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="790"/>
         <source>Delete</source>
         <translation type="unfinished">Kasuj</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="874"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="890"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="828"/>
         <source>Decompose</source>
         <translation type="unfinished">Rozłożenie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="915"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="931"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="869"/>
         <source>Compose</source>
         <translation type="unfinished">Składanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="956"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="972"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="997"/>
         <source>Try</source>
         <translation type="unfinished">Próba</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="990"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1019"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="923"/>
         <source>A+</source>
         <translation type="unfinished">A+</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1027"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1056"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="960"/>
         <source>A-</source>
         <translation type="unfinished">A-</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1078"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1120"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="1070"/>
         <source>Menu</source>
         <translation type="unfinished">Menu</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1103"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.ui" line="1145"/>
         <location filename="hcinstruction/ichcinstructionpageframe_5.ui" line="1095"/>
         <source>Insert</source>
         <translation type="unfinished">Włóż</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="459"/>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="716"/>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="896"/>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1004"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="467"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="724"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="904"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1012"/>
         <source>warning</source>
         <translation type="unfinished">ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="460"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="468"/>
         <source>Stand program can not be insert action</source>
         <translation type="unfinished">Program nie może wykonać czynności wkładania</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="487"/>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="732"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="495"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="740"/>
         <source>Warning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="488"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="496"/>
         <source>Can not add standby position program</source>
         <translation type="unfinished">Nie można dodać programu położenia gotowości</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="717"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="725"/>
         <source>Stand program can not be delete action</source>
         <translation type="unfinished">Program nie może wykonać czynności usuwania</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="733"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="741"/>
         <source>Can not delete standby position program</source>
         <translation type="unfinished">Nie można usunąć programu położenia gotowości</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="897"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="905"/>
         <source>Stand program can not do Up action</source>
         <translation type="unfinished">Program nie może wykonać ruchu w górę</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1005"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1013"/>
         <source>Stand program can not do Down action</source>
         <translation type="unfinished">Program nie może wykonać ruchu w dół</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1297"/>
+        <location filename="hcinstruction/ichcinstructionpageframe.cpp" line="1305"/>
         <source>Flag[%1]:%2</source>
         <translation type="unfinished">Flaga[%1]:%2</translation>
     </message>
@@ -3757,6 +3856,7 @@ Zmień Czas</translation>
         <translation type="unfinished">Czas recyklingu</translation>
     </message>
     <message>
+        <location filename="hcsettings/ichcproductsettingframe.ui" line="343"/>
         <location filename="hcsettings/ichcproductsettingframe_5.ui" line="26"/>
         <location filename="hcsettings/ichcproductsettingframe.cpp" line="216"/>
         <source>Times</source>
@@ -3815,7 +3915,7 @@ Zmień Czas</translation>
     <message>
         <location filename="hcinstruction/ichcprogrammonitorframe.ui" line="331"/>
         <location filename="hcinstruction/ichcprogrammonitorframe_5.ui" line="331"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="849"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="908"/>
         <source>No Follow</source>
         <translation type="unfinished">Nie śledzić</translation>
     </message>
@@ -3834,10 +3934,10 @@ Zmień Czas</translation>
     <message>
         <location filename="hcinstruction/ichcprogrammonitorframe.ui" line="427"/>
         <location filename="hcinstruction/ichcprogrammonitorframe_5.ui" line="427"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="124"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="277"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="858"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="868"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="127"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="280"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="917"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="927"/>
         <source>Speed Disable</source>
         <translation type="unfinished">Wyłącz prędkość</translation>
     </message>
@@ -3853,74 +3953,74 @@ Zmień Czas</translation>
         <translation type="unfinished">TextLabel</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="73"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="106"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="75"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="109"/>
         <source>Has not teach check Fixture-1!</source>
         <translation type="unfinished">Has not teach check Uchwyt-1!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="74"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="107"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="76"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="110"/>
         <source>Has not teach check Fixture-2!</source>
         <translation type="unfinished">Has not teach check Uchwyt-2!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="75"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="108"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="77"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="111"/>
         <source>Has not teach check Fixture-3!</source>
         <translation type="unfinished">Has not teach check Uchwyt-3!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="76"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="109"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="78"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="112"/>
         <source>Has not teach check Fixture-4!</source>
         <translation type="unfinished">Has not teach check Uchwyt-4!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="77"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="110"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="79"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="113"/>
         <source>Has not teach check Sucker-1!</source>
         <translation type="unfinished">Has not teach check Ssawka-1!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="78"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="111"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="80"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="114"/>
         <source>Has not teach check Sucker-2!</source>
         <translation type="unfinished">Has not teach check Ssawka-2!</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="222"/>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="556"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="225"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="611"/>
         <source>Warning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="355"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="358"/>
         <source>Single run ready</source>
         <translation type="unfinished">Pojedynczy bieg gotowy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="359"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="362"/>
         <source>Single cycle ready</source>
         <translation type="unfinished">Cykl pojedynczy gotowy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="557"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="612"/>
         <source>Can not edit standby position program</source>
         <translation type="unfinished">Nie można edytować programu położenia gotowości</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="843"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="902"/>
         <source>Follow</source>
         <translation type="unfinished">Śledzić</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="858"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="917"/>
         <source>Speed Enable</source>
         <translation type="unfinished">Włącz prędkość</translation>
     </message>
     <message>
-        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="918"/>
+        <location filename="hcinstruction/ichcprogrammonitorframe.cpp" line="977"/>
         <source>Flag[%1]:%2</source>
         <translation type="unfinished">Flaga[%1]:%2</translation>
     </message>
@@ -4050,67 +4150,57 @@ Zmień Czas</translation>
         <translation type="unfinished">Y-X-Z</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="364"/>
-        <source>Z-Y-X</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="390"/>
-        <source>X-Y-Z</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="403"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="339"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="366"/>
         <source>Direction</source>
         <translation type="unfinished">Kierunek</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="452"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="388"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="427"/>
         <source>X PP</source>
         <translation type="unfinished">X PP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="481"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="417"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="456"/>
         <source>X RP</source>
         <translation type="unfinished">X RP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="519"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="455"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="494"/>
         <source>Y PP</source>
         <translation type="unfinished">Y PP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="545"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="481"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="520"/>
         <source>Y RP</source>
         <translation type="unfinished">Y RP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="583"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="519"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="558"/>
         <source>Z PP</source>
         <translation type="unfinished">Z PP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="609"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="545"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="584"/>
         <source>Z RP</source>
         <translation type="unfinished">Z RP</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="640"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="576"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="615"/>
         <source>Step</source>
         <translation type="unfinished">Krok</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="647"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="670"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="776"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="583"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="606"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="709"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="622"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="645"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="748"/>
@@ -4118,15 +4208,15 @@ Zmień Czas</translation>
         <translation type="unfinished">0,1mm</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="680"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="616"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="655"/>
         <source>Lattice</source>
         <translation type="unfinished">Kratownica</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="687"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="704"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="812"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="623"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="637"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="745"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="662"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="676"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="784"/>
@@ -4134,69 +4224,69 @@ Zmień Czas</translation>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="694"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="630"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="669"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="711"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="644"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="683"/>
         <source>X</source>
         <translation type="unfinished">X</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="733"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="666"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="705"/>
         <source>Stack Counter</source>
         <translation type="unfinished">Licznik stosów</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="741"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="674"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="713"/>
         <source>All</source>
         <translation type="unfinished">Wszystkie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="746"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="679"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="718"/>
         <source>Good</source>
         <translation type="unfinished">Dobrze</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="751"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="684"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="723"/>
         <source>Stack-1</source>
         <translation type="unfinished">Stos-1</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="756"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="689"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="728"/>
         <source>Stack-2</source>
         <translation type="unfinished">Stos-2</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="761"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="694"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="733"/>
         <source>Stack-3</source>
         <translation type="unfinished">Stos-3</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="766"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="699"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="738"/>
         <source>Stack-4</source>
         <translation type="unfinished">Stos-4</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="845"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="778"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="817"/>
         <source>Y</source>
         <translation type="unfinished">Y</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="855"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="868"/>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="881"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="785"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="798"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="811"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="824"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="837"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="850"/>
@@ -4204,7 +4294,7 @@ Zmień Czas</translation>
         <translation type="unfinished">0,01mm</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="922"/>
+        <location filename="hcsettings/ichcstackedsettingsframe.ui" line="852"/>
         <location filename="hcsettings/ichcstackedsettingsframe_5.ui" line="891"/>
         <source>Is Sub Arm</source>
         <translation type="unfinished">Ramię pomocnicze</translation>
@@ -4229,13 +4319,13 @@ Zmień Czas</translation>
         <translation type="unfinished">Ustawienia systemu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="79"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="76"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="88"/>
         <source>Key Tone(On)</source>
         <translation type="unfinished">Dźwięk klawiszy (ON)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="120"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="117"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="129"/>
         <source>Calibration</source>
         <translation type="unfinished">Kalibracja</translation>
@@ -4247,223 +4337,238 @@ Zmień Czas</translation>
         <translation type="unfinished">Język:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="488"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="558"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="237"/>
         <source>Data Time:</source>
         <translation type="unfinished">Czas:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="541"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="611"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="290"/>
         <source>yyyy / MM  /  dd   hh : mm</source>
         <translation type="unfinished">yyyy / MM  /  dd   hh : mm</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="571"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="675"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="361"/>
         <source>Brightness</source>
         <translation type="unfinished">Jasność</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="662"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="638"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="317"/>
         <source>Back Light Time:</source>
         <translation type="unfinished">Czas podświetlenia:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="672"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="648"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="334"/>
         <source>min</source>
         <translation type="unfinished">min.</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="714"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="775"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="471"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="307"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="336"/>
         <source>Save</source>
         <translation type="unfinished">Zapisz</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="752"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="813"/>
         <source>Memory fix</source>
         <translation type="unfinished">Poprawka pamięci</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="769"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="843"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="494"/>
         <source>Level Management</source>
         <translation type="unfinished">Zarządzanie poziomami</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="790"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="864"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="515"/>
         <source>Level</source>
         <translation type="unfinished">Poziom</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="822"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="896"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="547"/>
         <source>Machine Admin</source>
         <translation type="unfinished">Administrator maszyny</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="860"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="934"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="591"/>
         <source>Advance Admin</source>
         <translation type="unfinished">Zaawansowany admin</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="873"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="947"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="604"/>
         <source>Old Password</source>
         <translation type="unfinished">Stare hasło</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="899"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="973"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="633"/>
         <source>New Password</source>
         <translation type="unfinished">Nowe hasło</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="943"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1017"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="680"/>
         <source>Change</source>
         <translation type="unfinished">Zmień</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="968"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1042"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="705"/>
         <source>Clear</source>
         <translation type="unfinished">Wyczyść</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="979"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1053"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="716"/>
         <source>Admin Settings</source>
         <translation type="unfinished">Ustawienia admina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1006"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1069"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1080"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1143"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="856"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="943"/>
         <source>Register</source>
         <translation type="unfinished">Rejestracja</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1026"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1100"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="876"/>
         <source>MachineCode:</source>
         <translation type="unfinished">Kod maszyny:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1033"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1107"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="895"/>
         <source>Generate</source>
         <translation type="unfinished">Generuj</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1046"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1120"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="908"/>
         <source>RegisterCode:</source>
         <translation type="unfinished">Kod rejestru:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1089"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1179"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1163"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1329"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="722"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="991"/>
         <source>Verify</source>
         <translation type="unfinished">Zweryfikować</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1115"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1189"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1017"/>
         <source>Factory Code:</source>
         <translation type="unfinished">Kod fabryczny:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1160"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1234"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="971"/>
         <source>RestTime:</source>
         <translation type="unfinished">Czas odpoczynku:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1202"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1281"/>
+        <source>Teach</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1294"/>
+        <source>Program Mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1399"/>
+        <source>Simple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1412"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="754"/>
         <source>Extent Function</source>
         <translation type="unfinished">Funkcja zakresu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1240"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1288"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1364"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1450"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="792"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="840"/>
         <source>Use</source>
         <translation type="unfinished">Użyj</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1250"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1460"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="802"/>
         <source>Limit Function</source>
         <translation type="unfinished">Funkcja limitu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1297"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1472"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1045"/>
         <source>BackUp/Restore</source>
         <translation type="unfinished">Kopie zapasowe/przywracanie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1305"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1480"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1053"/>
         <source>Backup</source>
         <translation type="unfinished">Kopia zapasowa</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1317"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1492"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1065"/>
         <source>Backup Machine Configures</source>
         <translation type="unfinished">Utwórz kopię zapasową konfiguracji maszyny</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1330"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1505"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1078"/>
         <source>Backup System Configures</source>
         <translation type="unfinished">Utwórz kopię zapasową konfiguracji systemu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1343"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1518"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1091"/>
         <source>Backup All</source>
         <translation type="unfinished">Utwórz kopie zapasowe wszystkiego</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1353"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1528"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1101"/>
         <source>Restore</source>
         <translation type="unfinished">Odzyskiwanie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1365"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1540"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1113"/>
         <source>Restore Machine Configures</source>
         <translation type="unfinished">Przywróć kopię zapasową konfiguracji maszyny</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1378"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1553"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1126"/>
         <source>Restore System Configures</source>
         <translation type="unfinished">Przywróć kopię zapasową konfiguracji systemu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1391"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1566"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1139"/>
         <source>Restore All</source>
         <translation type="unfinished">Przywróć wszystkie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1433"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1608"/>
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="1181"/>
         <source>umount</source>
         <translation type="unfinished">umount</translation>
@@ -4479,250 +4584,250 @@ Zmień Czas</translation>
         <translation type="unfinished">Angielski</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="73"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="83"/>
         <source>None</source>
         <translation type="unfinished">Brak</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="74"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="84"/>
         <source>Only Backward Limit</source>
         <translation type="unfinished">Limit tylko wstecz</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="75"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="85"/>
         <source>Only Forward Limit</source>
         <translation type="unfinished">Limit tylko do przodu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="76"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="86"/>
         <source>Both</source>
         <translation type="unfinished">Oba</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="77"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="87"/>
         <source>Only Up Limit</source>
         <translation type="unfinished">Limit tylko do góry</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="78"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="88"/>
         <source>Up and Donw Limit</source>
         <translation type="unfinished">Limit dolny i górny</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="79"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="89"/>
         <source>Single Arm</source>
         <translation type="unfinished">Pojedyncze ramię</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="80"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="90"/>
         <source>Double Arm</source>
         <translation type="unfinished">Podwójne ramię</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="151"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="242"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="315"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="166"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="269"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="344"/>
         <source>Key Tone(ON)</source>
         <translation type="unfinished">Dźwięk klawiszy (ON)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="158"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="247"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="322"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="173"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="274"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="351"/>
         <source>Key Tone(OFF)</source>
         <translation type="unfinished">Dźwięk klawiszy (OFF)</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="286"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1063"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="315"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1093"/>
         <source>No Limit</source>
         <translation type="unfinished">Brak limitu</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="290"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1067"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="319"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1097"/>
         <source>hour</source>
         <translation type="unfinished">godzina</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="304"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="333"/>
         <source>Set to %1</source>
         <translation type="unfinished">Ustaw na %1</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="317"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="346"/>
         <source>ON</source>
         <translation type="unfinished">ON</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="324"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="353"/>
         <source>OFF</source>
         <translation type="unfinished">OFF</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="336"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="363"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="459"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="463"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="365"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="392"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="490"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="494"/>
         <source>Information</source>
         <translation type="unfinished">Informacja</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="337"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="366"/>
         <source>Please enter the old password and new password!</source>
         <translation type="unfinished">Proszę wpisać stare hasło i nowe hasło!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="355"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="418"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="440"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="502"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="545"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="579"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="728"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="892"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1099"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="384"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="449"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="471"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="533"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="576"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="610"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="759"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="923"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1129"/>
         <source>Warning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="356"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="385"/>
         <source>Old password is wrong!</source>
         <translation type="unfinished">Stare hasło nieprawidłowe!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="364"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="393"/>
         <source>Change password successfully!</source>
         <translation type="unfinished">Zmiana hasła udana!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="418"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="440"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="502"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="545"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="579"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="728"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="449"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="471"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="533"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="576"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="610"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="759"/>
         <source>USB is not connected!</source>
         <translation type="unfinished">USB nie jest podłączony!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="421"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="443"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="508"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="452"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="474"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="539"/>
         <source>Backuping, please wait...</source>
         <translation type="unfinished">Tworzenie kopii zapasowej, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="459"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="490"/>
         <source>Operation finished!</source>
         <translation type="unfinished">Operacja zakończona!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="463"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="494"/>
         <source>Operation fail!</source>
         <translation type="unfinished">Błąd operacji!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="548"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="582"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="733"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="579"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="613"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="764"/>
         <source>Restoring, please wait...</source>
         <translation type="unfinished">Przywracanie kopii zapasowej, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="558"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="590"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="589"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="621"/>
         <source>Backup files is broken!</source>
         <translation type="unfinished">Plik kopii zapasowej jest uszkodzony!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="771"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="784"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="791"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="813"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="943"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="948"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="970"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="975"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="987"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="998"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="802"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="815"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="822"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="844"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="974"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="979"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1001"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1006"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1018"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1029"/>
         <source>Warnning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="771"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="802"/>
         <source>%1 wrong program format! Will skip this record!</source>
         <translation type="unfinished">%1 niepoprawny format programu! Pominie ten zapis!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="784"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="791"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="815"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="822"/>
         <source>%1 wrong config format! Will skip this record!</source>
         <translation type="unfinished">%1 niepoprawny format konfiguracji! Pominie ten zapis!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="813"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="844"/>
         <source>%1 wrong program format! Will skip this sub!</source>
         <translation type="unfinished">%1 niepoprawny format programu! Pominie ten sub!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="886"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="917"/>
         <source>
 App %1; Host:</source>
         <translation type="unfinished">
 Aplikacja %1; Host:</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="893"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="924"/>
         <source>The system will be reboot to calibrate! Do you want to continue?</source>
         <translation type="unfinished">System uruchomi się ponownie w celu kalibracji! Czy chcesz kontynuować?</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="897"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="928"/>
         <source>Recal</source>
         <translation type="unfinished">Rekalibracja</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="914"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="945"/>
         <source>Tune down to %1</source>
         <translation type="unfinished">Obniżyć do %1</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="928"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="959"/>
         <source>Tune up to %1</source>
         <translation type="unfinished">Dostroić się do %1</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="943"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="948"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="974"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="979"/>
         <source>Wrong system config format!</source>
         <translation type="unfinished">Niepoprawny format konfiguracji systemu!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="970"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="975"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1001"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1006"/>
         <source>Wrong Axis config format!</source>
         <translation type="unfinished">Niepoprawny format konfiguracji osi!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="987"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="998"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1018"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1029"/>
         <source>Wrong Rotation config format!</source>
         <translation type="unfinished">Niepoprawny format konfiguracji obrotów!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1048"/>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1054"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1078"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1084"/>
         <source>Wrong Register Code!</source>
         <translation type="unfinished">Niepoprawny kod rejestru!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1060"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1090"/>
         <source>Register Success!</source>
         <translation type="unfinished">Rejestracja udana!</translation>
     </message>
     <message>
-        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1100"/>
+        <location filename="hcsettings/ichcsystemsettingsframe.cpp" line="1130"/>
         <source>The system will be for storage to repair ! Do you want to continue?</source>
         <translation type="unfinished">System będzie do składowania do naprawy! Czy chcesz kontynuować?</translation>
     </message>
@@ -4847,7 +4952,7 @@ Aplikacja %1; Host:</translation>
     </message>
     <message>
         <location filename="ichostcomparepage.cpp" line="37"/>
-        <location filename="ichostcomparepage.cpp" line="87"/>
+        <location filename="ichostcomparepage.cpp" line="92"/>
         <source>Warning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
@@ -4857,19 +4962,19 @@ Aplikacja %1; Host:</translation>
         <translation type="unfinished">Czy na pewno chcesz sprawdzić wszystkie konfiguracje maszyny hosta?</translation>
     </message>
     <message>
-        <location filename="ichostcomparepage.cpp" line="74"/>
-        <location filename="ichostcomparepage.cpp" line="117"/>
+        <location filename="ichostcomparepage.cpp" line="79"/>
+        <location filename="ichostcomparepage.cpp" line="122"/>
         <source>Critical</source>
         <translation type="unfinished">Krytyczne</translation>
     </message>
     <message>
-        <location filename="ichostcomparepage.cpp" line="75"/>
-        <location filename="ichostcomparepage.cpp" line="118"/>
+        <location filename="ichostcomparepage.cpp" line="80"/>
+        <location filename="ichostcomparepage.cpp" line="123"/>
         <source>Operator fail! Please reboot system</source>
         <translation type="unfinished">Błąd operatora! Proszę zrestartować</translation>
     </message>
     <message>
-        <location filename="ichostcomparepage.cpp" line="88"/>
+        <location filename="ichostcomparepage.cpp" line="93"/>
         <source>Do you really want to rewrite all the machine configures to host?</source>
         <translation type="unfinished">Czy naprawdę chcesz przepisać wszystkie konfiguracje maszyny na hosta?</translation>
     </message>
@@ -5398,7 +5503,7 @@ Aplikacja %1; Host:</translation>
     </message>
     <message>
         <location filename="hcinstruction/icinstructmodifydialog.ui" line="715"/>
-        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="291"/>
+        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="295"/>
         <source>Limit Time</source>
         <translation type="unfinished">Limit czasu</translation>
     </message>
@@ -5418,8 +5523,8 @@ Aplikacja %1; Host:</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="301"/>
-        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="317"/>
+        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="305"/>
+        <location filename="hcinstruction/icinstructmodifydialog.cpp" line="321"/>
         <source>Times</source>
         <translation type="unfinished">Czasy</translation>
     </message>
@@ -5448,15 +5553,13 @@ Aplikacja %1; Host:</translation>
     </message>
     <message>
         <location filename="hcinstruction/icinstructparam.cpp" line="84"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="262"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="393"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="345"/>
         <source>X037</source>
         <translation type="unfinished">X037</translation>
     </message>
     <message>
         <location filename="hcinstruction/icinstructparam.cpp" line="88"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="258"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="389"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="341"/>
         <source>X023</source>
         <translation type="unfinished">X023</translation>
     </message>
@@ -5534,276 +5637,259 @@ Aplikacja %1; Host:</translation>
         <translation type="unfinished">Wczesne zatrzymanie,</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="186"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="312"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="184"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="272"/>
         <source>X043</source>
         <translation type="unfinished">X043</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="190"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="316"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="188"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="276"/>
         <source>X044</source>
         <translation type="unfinished">X044</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="202"/>
-        <source>X012 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="206"/>
-        <source>X013 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="210"/>
-        <source>X034 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="214"/>
-        <source>X021 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="218"/>
-        <source>X015 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="222"/>
-        <source>X014 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="226"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="224"/>
         <source>Mold Count</source>
         <translation type="unfinished">Licznik formy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="230"/>
-        <source>X017 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="234"/>
-        <source>X036 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="238"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="369"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="321"/>
         <source>X045</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="242"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="373"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="325"/>
         <source>X046</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="246"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="377"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="329"/>
         <source>X047</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="250"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="381"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="333"/>
         <source>X026</source>
         <translation type="unfinished">X026</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="254"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="385"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="337"/>
         <source>X040</source>
         <translation type="unfinished">X040</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="267"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="470"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="422"/>
         <source>ON</source>
         <translation type="unfinished">ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="271"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="470"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="422"/>
         <source>OFF</source>
         <translation type="unfinished">OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="278"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="238"/>
         <source>Defective Products</source>
         <translation type="unfinished">Wadliwe produkty</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="282"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="200"/>
+        <source>X012 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="204"/>
+        <source>X013 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="208"/>
+        <source>X034 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="212"/>
+        <source>X021 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="216"/>
+        <source>X015 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="220"/>
+        <source>X014 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="228"/>
+        <source>X017 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="232"/>
+        <source>X036 OFF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icinstructparam.cpp" line="242"/>
         <source>Try Product</source>
         <translation type="unfinished">Wypróbuj produkt</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="286"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="246"/>
         <source>Sampling</source>
         <translation type="unfinished">Próbkowanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="290"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="250"/>
         <source>Sub-</source>
         <translation type="unfinished">Sub-</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="293"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="253"/>
         <source>Go to Flag[%1]</source>
         <translation type="unfinished">Przejdź do flagi[%1]</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="301"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="261"/>
         <source>Mold Opened</source>
         <translation type="unfinished">Forma otwarta</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="308"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="268"/>
         <source>Security Door Closed</source>
         <translation type="unfinished">Drzwi bezpieczeństwa zamknięte</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="320"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="280"/>
         <source>CLIP1</source>
         <translation type="unfinished">Zacisk1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="324"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="284"/>
         <source>CLIP2</source>
         <translation type="unfinished">Zacisk2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="328"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="288"/>
         <source>CLIP3</source>
         <translation type="unfinished">Zacisk3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="332"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="292"/>
         <source>CLIP4</source>
         <translation type="unfinished">Zacisk4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="336"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="296"/>
         <source>CLIP5</source>
         <translation type="unfinished">Zacisk5</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="340"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="300"/>
         <source>CLIP6</source>
         <translation type="unfinished">Zacisk6</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="344"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="304"/>
         <source>EUEJF</source>
         <translation type="unfinished">EUEJF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="348"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="308"/>
         <source>EUEJB</source>
         <translation type="unfinished">EUEJB</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="353"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="313"/>
         <source>EUCOREIN</source>
         <translation type="unfinished">EUCOREIN</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="357"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="317"/>
         <source>EUCOREOUT</source>
         <translation type="unfinished">EUCOREOUT</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="361"/>
-        <source>EUCOREIn-2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="365"/>
-        <source>EUCOREOUT-2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="397"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="349"/>
         <source>X017</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="401"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="353"/>
         <source>X036</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="411"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="363"/>
         <source>Product Clear</source>
         <translation type="unfinished">Zerowanie produktów</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="425"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="377"/>
         <source>Eje BW Permit On</source>
         <translation type="unfinished">Pozwolenie na wyrzut BW</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="433"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="385"/>
         <source>Eje BW Permit Off</source>
         <translation type="unfinished">Pozwolenie na wyrzut BW wył.</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="441"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="393"/>
         <source>Core1 Out Permit On</source>
         <translation type="unfinished">Pozwolenie Rdzeń1 na zewn.</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="449"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="401"/>
         <source>Core1 Out Permit Off</source>
         <translation type="unfinished">Pozwolenie Rdzeń1 na zewn. wył.</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="457"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="409"/>
         <source>Core2 Out Permit On</source>
         <translation type="unfinished">Pozwolenie Rdzeń2 na zewn.</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="465"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="417"/>
         <source>Core2 Out Permit Off</source>
         <translation type="unfinished">Pozwolenie Rdzeń2 na zewn. wył.</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="482"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="438"/>
         <source>Group</source>
         <translation type="unfinished">Grupa</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="667"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="623"/>
         <source>All</source>
         <translation type="unfinished">Wszystkie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="668"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="624"/>
         <source>Good</source>
         <translation type="unfinished">Dobrze</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="669"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="625"/>
         <source>Stacked-1</source>
         <translation type="unfinished">Stos-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="670"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="626"/>
         <source>Stacked-2</source>
         <translation type="unfinished">Stos-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="671"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="627"/>
         <source>Stacked-3</source>
         <translation type="unfinished">Stos-3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="672"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="628"/>
         <source>Stacked-4</source>
         <translation type="unfinished">Stos-4</translation>
     </message>
@@ -5887,117 +5973,197 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Odległość pchania, ciągnięcia</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="30"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="56"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="205"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="212"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="219"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="347"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="383"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="419"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="121"/>
+        <source>X1 Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="160"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="255"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="463"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="519"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="526"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="571"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="776"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="810"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="926"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="933"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="940"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="947"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="954"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="961"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="968"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="975"/>
         <source>s</source>
         <translation type="unfinished">s</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="63"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="264"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="205"/>
+        <source>X1 Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="215"/>
+        <source>X2 Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="225"/>
+        <source>C Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="300"/>
+        <source>A Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="393"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="647"/>
         <source>mm</source>
         <translation type="unfinished">mm</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="89"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="400"/>
+        <source>Y1 Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="417"/>
+        <source>Y2 Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="427"/>
+        <source>C Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="509"/>
+        <source>B Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="578"/>
+        <source>Z Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="588"/>
+        <source>Y1 Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="598"/>
+        <source>X2 Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="637"/>
+        <source>A Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="673"/>
+        <source>B Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="790"/>
+        <source>Y2 Deceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="800"/>
         <source>A Max Speed</source>
         <translation type="unfinished">Mak. prędkość A</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="137"/>
-        <source>X1 Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie X1</translation>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="884"/>
+        <source>Z Deceleration</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="166"/>
+        <source>X1 Acceleration and Deceleration</source>
+        <translation type="obsolete">Przyspieszanie i hamowanie X1</translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="855"/>
         <source>Tolerance</source>
         <translation type="unfinished">Tolerancja</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="176"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="30"/>
         <source>B Max Speed</source>
         <translation type="unfinished">Mak. prędkość B</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="373"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="721"/>
         <source>Z Max Speed</source>
         <translation type="unfinished">Mak. prędkość Z</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="390"/>
         <source>Y1 Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie Y1</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie Y1</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="426"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="131"/>
         <source>X1 Max Speed</source>
         <translation type="unfinished">Mak. prędkość X1</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="436"/>
         <source>A Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie A</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie A</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="459"/>
         <source>C Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie C</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie C</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="469"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="627"/>
         <source>Y2 Max Speed</source>
         <translation type="unfinished">Mak. prędkość Y2</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="498"/>
         <source>Y2 Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie Y2</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie Y2</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="508"/>
         <source>Z Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie Z</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie Z</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="531"/>
         <source>B Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie B</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie B</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="560"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="499"/>
         <source>X2 Max Speed</source>
         <translation type="unfinished">Mak. prędkość X2</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="608"/>
         <source>X2 Acceleration and Deceleration</source>
-        <translation type="unfinished">Przyspieszanie i hamowanie X2</translation>
+        <translation type="obsolete">Przyspieszanie i hamowanie X2</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="618"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="470"/>
         <source>Y1 Max Speed</source>
         <translation type="unfinished">Mak. prędkość Y1</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="628"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="73"/>
         <source>C Max Speed</source>
         <translation type="unfinished">Mak. prędkość C</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="638"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="645"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="652"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="659"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="666"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="673"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="680"/>
-        <location filename="hcsettings/icmachineconfigpage.ui" line="687"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="59"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="66"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="248"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="329"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="410"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="437"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="750"/>
+        <location filename="hcsettings/icmachineconfigpage.ui" line="783"/>
         <source>%</source>
         <translation type="unfinished">%</translation>
     </message>
@@ -6089,25 +6255,25 @@ Wpisz cyfrę pomiędzy </translation>
     <message>
         <location filename="hcsettings/icmachinestructpage.ui" line="382"/>
         <location filename="hcsettings/icmachinestructpage_5.ui" line="439"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="268"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="281"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="296"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="310"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="322"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="271"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="284"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="299"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="313"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="325"/>
         <source>Maximum displacement</source>
         <translation type="unfinished">Maksymalne przemieszczenie</translation>
     </message>
     <message>
         <location filename="hcsettings/icmachinestructpage.ui" line="427"/>
         <location filename="hcsettings/icmachinestructpage_5.ui" line="487"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="293"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="296"/>
         <source>Internal security zone</source>
         <translation type="unfinished">Wewn. strefa bezpieczeństwa</translation>
     </message>
     <message>
         <location filename="hcsettings/icmachinestructpage.ui" line="453"/>
         <location filename="hcsettings/icmachinestructpage_5.ui" line="535"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="294"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="297"/>
         <source>External security zone</source>
         <translation type="unfinished">Zewn. strefa bezpieczeństwa</translation>
     </message>
@@ -6121,7 +6287,7 @@ Wpisz cyfrę pomiędzy </translation>
     <message>
         <location filename="hcsettings/icmachinestructpage.ui" line="549"/>
         <location filename="hcsettings/icmachinestructpage_5.ui" line="637"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="625"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="628"/>
         <source>Save</source>
         <translation type="unfinished">Zapisz</translation>
     </message>
@@ -6228,90 +6394,90 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Czas</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="265"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="307"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="268"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="310"/>
         <source>Min pos inside mold</source>
         <translation type="unfinished">Min. poz. wewnątrz formy</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="266"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="308"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="269"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="311"/>
         <source>Max pos inside mold</source>
         <translation type="unfinished">Maks. poz. wewnątrz formy</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="278"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="319"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="281"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="322"/>
         <source>Max standby pos</source>
         <translation type="unfinished">Maks. poz. oczekiwania</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="279"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="320"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="282"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="323"/>
         <source>Leave origin pos</source>
         <translation type="unfinished">Opuszczanie poz. początkowej</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="336"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="363"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="388"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="339"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="366"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="391"/>
         <source>Transever security zone(Less)</source>
         <translation type="unfinished">Transever security zone(Less)</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="337"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="364"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="389"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="340"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="367"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="392"/>
         <source>Transever security zone(Lagger)</source>
         <translation type="unfinished">Transever security zone(Lagger)</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="338"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="339"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="340"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="341"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="342"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="365"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="366"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="367"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="343"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="344"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="345"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="368"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="369"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="398"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="399"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="400"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="370"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="371"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="372"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="401"/>
         <location filename="hcsettings/icmachinestructpage.cpp" line="402"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="403"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="404"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="405"/>
         <source>degree</source>
         <translation type="unfinished">stopień</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="343"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="370"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="403"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="346"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="373"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="406"/>
         <source>Max Rotate</source>
         <translation type="unfinished">Maks. obroty</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="344"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="371"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="404"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="347"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="374"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="407"/>
         <source>Machine Per</source>
         <translation type="unfinished">Machine Per</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="352"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="379"/>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="397"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="355"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="382"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="400"/>
         <source>Origin Offset</source>
         <translation type="unfinished">Origin Offset</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="623"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="626"/>
         <source>Information</source>
         <translation type="unfinished">Informacja</translation>
     </message>
     <message>
-        <location filename="hcsettings/icmachinestructpage.cpp" line="623"/>
+        <location filename="hcsettings/icmachinestructpage.cpp" line="626"/>
         <source>Save Successfully!</source>
         <translation type="unfinished">Zapis udany!</translation>
     </message>
@@ -7155,145 +7321,151 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">StackedWidget</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="73"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="67"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="67"/>
         <source>Select Arm</source>
         <translation type="unfinished">Wybierz ramię</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="91"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="73"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="85"/>
         <source>Main Arm</source>
         <translation type="unfinished">Główne ramię</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="101"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="83"/>
+        <source>M Outlet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="90"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="107"/>
         <source>Sub Arm</source>
         <translation type="unfinished">Ramię pomocnicze</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="111"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="100"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="117"/>
         <source>Get Product Fixture</source>
         <translation type="unfinished">Get Product Fixture</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="129"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="195"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="112"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="151"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="150"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="246"/>
         <source>Use Fixture:</source>
         <translation type="unfinished">Użyj Uchwytu:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="137"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="206"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="164"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="263"/>
         <source>Fixture-1</source>
         <translation type="unfinished">Uchwyt-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="142"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="211"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="169"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="268"/>
         <source>Fixture-2</source>
         <translation type="unfinished">Uchwyt-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="147"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="216"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="174"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="273"/>
         <source>Fixture-3</source>
         <translation type="unfinished">Uchwyt-3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="152"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="221"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="179"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="278"/>
         <source>Fixture-4</source>
         <translation type="unfinished">Uchwyt-4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="157"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="226"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="184"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="283"/>
         <source>Sucker-1</source>
         <translation type="unfinished">Ssawka-1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="162"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="231"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="189"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="288"/>
         <source>Sucker-2</source>
         <translation type="unfinished">Ssawka-2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="170"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="239"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="203"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="302"/>
         <source>Check Fixture</source>
         <translation type="unfinished">Sprawdź uchwyt</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="183"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="119"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="158"/>
+        <source>None</source>
+        <translation type="unfinished">Brak</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="129"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="168"/>
+        <source>open Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="139"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="216"/>
         <source>Get Outlet Fixture</source>
         <translation type="unfinished">Get Outlet Fixture</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="286"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="206"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="349"/>
         <source>Standby Settings</source>
         <translation type="unfinished">Ustawienia gotowości</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="293"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="216"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="898"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="937"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="993"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="368"/>
         <source>Set In</source>
         <translation type="unfinished">Ustawienie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="320"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="237"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="398"/>
         <source>GZ:</source>
         <translation type="unfinished">GZ:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="338"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="756"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="255"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="661"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="443"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1170"/>
         <source>Come In</source>
         <translation type="unfinished">Wsuwanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="351"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="743"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="268"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="648"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="468"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1145"/>
         <source>Come Out</source>
         <translation type="unfinished">Come Out</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="365"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="282"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="482"/>
         <source>GA:</source>
         <translation type="unfinished">GA:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="383"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="428"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="473"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="809"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="854"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="300"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="345"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="390"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="705"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="750"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="527"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="611"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="695"/>
@@ -7303,11 +7475,11 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Poziomo</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="396"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="441"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="486"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="825"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="867"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="313"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="358"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="403"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="721"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="763"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="552"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="636"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="720"/>
@@ -7317,139 +7489,169 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Pionowo</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="410"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="327"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="566"/>
         <source>GB:</source>
         <translation type="unfinished">GB:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="455"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="372"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="650"/>
         <source>GC:</source>
         <translation type="unfinished">GC:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="503"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="420"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="737"/>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="999"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1324"/>
         <source>Product</source>
         <translation type="unfinished">Moczenie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="524"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="435"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="881"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="962"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="761"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="2142"/>
         <source>GX1:</source>
         <translation type="unfinished">GX1:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="545"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="662"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="456"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="567"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="806"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1001"/>
         <source>Backward</source>
         <translation type="unfinished">Do tyłu</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="555"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="672"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="466"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="577"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="828"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1023"/>
         <source>Forward</source>
         <translation type="unfinished">Do przodu</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="572"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="483"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="845"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="2141"/>
         <source>GY1:</source>
         <translation type="unfinished">GY1:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="593"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="707"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="504"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="612"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="890"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1085"/>
         <source>Up</source>
         <translation type="unfinished">Góra</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="603"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="717"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="514"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="622"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="912"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1107"/>
         <source>Down</source>
         <translation type="unfinished">W dół</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="623"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="534"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="932"/>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1000"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1325"/>
         <source>Outlet</source>
         <translation type="unfinished">Wylot</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="644"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="549"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="927"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="976"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="956"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1573"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="2021"/>
         <source>GX2:</source>
         <translation type="unfinished">GX2:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="689"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="594"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1040"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1572"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="2020"/>
         <source>GY2:</source>
         <translation type="unfinished">GY2:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="734"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="639"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1124"/>
         <source>Release Outlet:</source>
         <translation type="unfinished">Release Outlet:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="803"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="699"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1208"/>
         <source>Come Out Position</source>
         <translation type="unfinished">Pozycja wyjścia</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="835"/>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="877"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="731"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="773"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1291"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1384"/>
         <source>Running Horizon</source>
         <translation type="unfinished">Praca pozioma</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="848"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="744"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1304"/>
         <source>Come In Position</source>
         <translation type="unfinished">Pozycja wejścia</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="892"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="788"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1411"/>
         <source>Stacked En</source>
         <translation type="unfinished">Stacked En</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="902"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="798"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1421"/>
         <source>1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="920"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="851"/>
+        <source>Optional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="869"/>
+        <source>Get Product Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="908"/>
+        <source>Get Outlet Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="947"/>
+        <source>X1 X2 Before Go Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="1028"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1451"/>
         <source>Pre</source>
         <translation type="unfinished">Pre</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="927"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="1038"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1470"/>
         <source>Next</source>
         <translation type="unfinished">Następny</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.ui" line="934"/>
+        <location filename="hcinstruction/icprogramguidepage.ui" line="1045"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1489"/>
         <source>Finish</source>
         <translation type="unfinished">Zakończono</translation>
@@ -7467,27 +7669,36 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Rezerwa {0,0?}</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="985"/>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1075"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1307"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1416"/>
         <source>Get Position Settings</source>
         <translation type="unfinished">Ustawienia położenia</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1005"/>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1093"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1339"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1443"/>
         <source>Release Product Position Settings</source>
         <translation type="unfinished">Release Product Position Settings</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1026"/>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1114"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1360"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1464"/>
         <source>Release Outlet Position Settings</source>
         <translation type="unfinished">Release Outlet Position Settings</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icprogramguidepage.cpp" line="1160"/>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1513"/>
+        <source>Finish(%1/%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icprogramguidepage.cpp" line="1519"/>
         <source>Stanby Settings</source>
         <translation type="unfinished">Ustawienia gotowości</translation>
+    </message>
+    <message>
+        <source>Hint</source>
+        <translation type="obsolete">Wskazówka</translation>
     </message>
 </context>
 <context>
@@ -7656,6 +7867,489 @@ Wpisz cyfrę pomiędzy </translation>
     </message>
 </context>
 <context>
+    <name>ICSimpleAutoEditor</name>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="14"/>
+        <source>Dialog</source>
+        <translation type="unfinished">Dialog</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="65"/>
+        <source>X2</source>
+        <translation type="unfinished">X2</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="81"/>
+        <source>Y1</source>
+        <translation type="unfinished">Y1</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="113"/>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="314"/>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="535"/>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="586"/>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="602"/>
+        <source>s</source>
+        <translation type="unfinished">s</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="151"/>
+        <source>After Release Product:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="186"/>
+        <source>Standby Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="205"/>
+        <source>Get Product Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="218"/>
+        <source>Y2</source>
+        <translation type="unfinished">Y2</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="330"/>
+        <source>X1</source>
+        <translation type="unfinished">X1</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="400"/>
+        <source>After Get Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="407"/>
+        <source>Delay</source>
+        <translation type="unfinished">Opóźnienie</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="426"/>
+        <source>After Release Outlet:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="471"/>
+        <source>Z</source>
+        <translation type="unfinished">Z</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="557"/>
+        <source>Get Outlet Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="624"/>
+        <source>Pos before Hor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="643"/>
+        <source>After Cut Outlet:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="778"/>
+        <source>Ok</source>
+        <translation type="unfinished">Ok</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.ui" line="803"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.cpp" line="116"/>
+        <source>%2-%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.cpp" line="187"/>
+        <source>Rel Product</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.cpp" line="200"/>
+        <source>Rel Outlet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleautoeditor.cpp" line="213"/>
+        <source>Cut Outlet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ICSimpleTeachPage</name>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="14"/>
+        <source>Form</source>
+        <translation type="unfinished">Forma</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="30"/>
+        <source>Pos Conf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="67"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="304"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="324"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="351"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="398"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="788"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="846"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="869"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="879"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="889"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1254"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1412"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1422"/>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="87"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="563"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1326"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1796"/>
+        <source>Z</source>
+        <translation type="unfinished">Z</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="109"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="198"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="247"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="466"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="585"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="950"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1036"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1065"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1117"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1234"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1386"/>
+        <source>Set In</source>
+        <translation type="unfinished">Ustawienie</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="176"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="713"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1300"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1780"/>
+        <source>Y1</source>
+        <translation type="unfinished">Y1</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="274"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1930"/>
+        <source>Standby Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="287"/>
+        <source>Get Out Fixture Sel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="314"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="736"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1812"/>
+        <source>X2</source>
+        <translation type="unfinished">X2</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="334"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2029"/>
+        <source>Get Product Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="361"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="592"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1290"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1764"/>
+        <source>X1</source>
+        <translation type="unfinished">X1</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="381"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="693"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1828"/>
+        <source>Y2</source>
+        <translation type="unfinished">Y2</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="391"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2096"/>
+        <source>Get Outlet Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="414"/>
+        <source>Get Product Fixture Sel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="498"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2246"/>
+        <source>After Get Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="608"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="650"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1367"/>
+        <source>Delete</source>
+        <translation type="unfinished">Kasuj</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="627"/>
+        <source>Release  Outlet Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="673"/>
+        <source>Release P Fixture Sel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="729"/>
+        <source>Add Outlet Pos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="771"/>
+        <source>PHB En</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="810"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="921"/>
+        <source>Per Y Up Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="829"/>
+        <source>Release  Product Pos:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="862"/>
+        <source>Release O Fixture Sel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1078"/>
+        <source>Add Product Pos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1130"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1143"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1438"/>
+        <source>Modify</source>
+        <translation type="unfinished">Modyfikacja</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1348"/>
+        <source>Add Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1405"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="309"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="847"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="874"/>
+        <source>Cut Pos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1445"/>
+        <source>Per Y Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1490"/>
+        <source>Cut Sel-1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1549"/>
+        <source>Main Arm En</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1584"/>
+        <source>Main Arm Outlet En</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1616"/>
+        <source>Sub Arm En</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1648"/>
+        <source>Cut Outlet En</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1673"/>
+        <source>Pos Inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1695"/>
+        <source>Pos Outside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1714"/>
+        <source>Pos of Cut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1729"/>
+        <source>Speed Conf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1844"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1860"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1876"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1892"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="1908"/>
+        <source>%</source>
+        <translation type="unfinished">%</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2195"/>
+        <source>Pos before Hor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2312"/>
+        <source>Time Conf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2330"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2364"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2378"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2388"/>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2405"/>
+        <source>s</source>
+        <translation type="unfinished">s</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2340"/>
+        <source>BFOND:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2347"/>
+        <source>Cut Time-3:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2354"/>
+        <source>Cut Time-2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2371"/>
+        <source>Cut Time-1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2395"/>
+        <source>BFOFFD:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2414"/>
+        <source>Advance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2451"/>
+        <source>Always Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.ui" line="2469"/>
+        <source>Save Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="279"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="755"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="783"/>
+        <source>Rel Product</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="294"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="801"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="831"/>
+        <source>Rel Outlet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="318"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="319"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="320"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="753"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="772"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="782"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="799"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="818"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="832"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="845"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="862"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="875"/>
+        <source>Pos</source>
+        <translation type="unfinished">Poz.</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="668"/>
+        <source>X1:%1, Y1:%2, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="670"/>
+        <source>Z:%1
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="674"/>
+        <source>Z:%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="676"/>
+        <source>, X2:%1, Y2:%2
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="678"/>
+        <source>Use</source>
+        <translation type="unfinished">Użyj</translation>
+    </message>
+    <message>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="707"/>
+        <location filename="hcinstruction/icsimpleteachpage.cpp" line="739"/>
+        <source>%2-%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ICSplashScreen</name>
     <message>
         <location filename="icsplashscreen.cpp" line="16"/>
@@ -7783,26 +8477,16 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Y-&gt;Z-&gt;X</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icstackeditor.cpp" line="133"/>
-        <source>Z-&gt;Y-&gt;X</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icstackeditor.cpp" line="137"/>
-        <source>X-&gt;Y-&gt;Z</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icstackeditor.cpp" line="144"/>
-        <location filename="hcinstruction/icstackeditor.cpp" line="153"/>
-        <location filename="hcinstruction/icstackeditor.cpp" line="162"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="136"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="145"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="154"/>
         <source>RP</source>
         <translation type="unfinished">RP</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icstackeditor.cpp" line="144"/>
-        <location filename="hcinstruction/icstackeditor.cpp" line="153"/>
-        <location filename="hcinstruction/icstackeditor.cpp" line="162"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="136"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="145"/>
+        <location filename="hcinstruction/icstackeditor.cpp" line="154"/>
         <source>P</source>
         <translation type="unfinished">P</translation>
     </message>
@@ -7812,7 +8496,7 @@ Wpisz cyfrę pomiędzy </translation>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="14"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="14"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="284"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="253"/>
         <source>Form</source>
         <translation type="unfinished">Forma</translation>
     </message>
@@ -7821,8 +8505,8 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="38"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="44"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="50"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="296"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="394"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="265"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="363"/>
         <source>Arm Define</source>
         <translation type="unfinished">Określ ramię</translation>
     </message>
@@ -7843,14 +8527,6 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="662"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="741"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="792"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1909"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1964"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2019"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2081"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2157"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2212"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2281"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2336"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="84"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="143"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="174"/>
@@ -7867,14 +8543,14 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="692"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="771"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="822"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="298"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="302"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="306"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="310"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="314"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="318"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="322"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="326"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="267"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="271"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="275"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="279"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="283"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="287"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="291"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="295"/>
         <source>None</source>
         <translation type="unfinished">Brak</translation>
     </message>
@@ -7895,14 +8571,14 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="286"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="324"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="362"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="299"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="303"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="307"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="311"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="315"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="319"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="323"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="327"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="268"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="272"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="276"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="280"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="284"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="288"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="292"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="296"/>
         <source>Pneumatic</source>
         <translation type="unfinished">Pneumatyka</translation>
     </message>
@@ -7923,150 +8599,86 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="291"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="329"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="367"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="300"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="304"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="308"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="312"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="316"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="320"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="324"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="328"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="269"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="273"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="277"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="281"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="285"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="289"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="293"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="297"/>
         <source>Servo</source>
         <translation type="unfinished">Serwo</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="84"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="700"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1914"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1969"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2024"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2086"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2162"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2217"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2286"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2341"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="102"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="730"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="297"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="266"/>
         <source>X1</source>
         <translation type="unfinished">X1</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="91"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="721"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1949"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2004"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2059"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2121"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2197"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2252"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2321"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2376"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="109"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="751"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="301"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="270"/>
         <source>C</source>
         <translation type="unfinished">C</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="98"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="366"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1924"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1979"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2034"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2096"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2172"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2227"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2296"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2351"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="116"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="396"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="305"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="274"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="105"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="380"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1939"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1994"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2049"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2111"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2187"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2242"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2311"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2366"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="123"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="410"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="309"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="278"/>
         <source>A</source>
         <translation type="unfinished">A</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="205"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="642"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1944"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1999"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2054"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2116"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2192"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2247"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2316"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2371"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="223"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="672"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="313"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="282"/>
         <source>B</source>
         <translation type="unfinished">B</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="243"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="714"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1919"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1974"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2029"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2091"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2167"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2222"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2291"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2346"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="261"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="744"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="317"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="286"/>
         <source>Y1</source>
         <translation type="unfinished">Y1</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="281"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="707"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1929"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1984"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2039"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2101"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2177"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2232"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2301"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2356"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="299"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="737"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="321"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="290"/>
         <source>X2</source>
         <translation type="unfinished">X2</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="319"/>
         <location filename="hcsettings/icstructdefineframe.ui" line="373"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1934"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1989"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2044"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2106"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2182"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2237"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2306"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2361"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="337"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="403"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="325"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="294"/>
         <source>Y2</source>
         <translation type="unfinished">Y2</translation>
     </message>
@@ -8201,8 +8813,8 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="840"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="864"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="870"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="329"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="395"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="298"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="364"/>
         <source>Out Define</source>
         <translation type="unfinished">Out Define</translation>
     </message>
@@ -8223,14 +8835,14 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1480"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1515"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1550"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="370"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="372"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="374"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="376"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="378"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="380"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="382"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="384"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="339"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="341"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="343"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="345"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="347"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="349"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="351"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="353"/>
         <source>Extent</source>
         <translation type="unfinished">Zakres</translation>
     </message>
@@ -8257,14 +8869,14 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1366"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1404"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1442"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="369"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="371"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="373"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="375"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="377"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="379"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="381"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="383"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="338"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="340"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="342"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="344"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="346"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="348"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="350"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="352"/>
         <source>Normal</source>
         <translation type="unfinished">Norma</translation>
     </message>
@@ -8273,29 +8885,29 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="1540"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1564"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1570"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="285"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="396"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="254"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="365"/>
         <source>Signal Define</source>
         <translation type="unfinished">Określ sygnał</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1593"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1629"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="286"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="255"/>
         <source>Single Arm</source>
         <translation type="unfinished">Pojedyncze ramię</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1641"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1677"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="287"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="256"/>
         <source>Double Arm</source>
         <translation type="unfinished">Podwójne ramię</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1678"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1711"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="288"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="257"/>
         <source>Main Arm</source>
         <translation type="unfinished">Główne ramię</translation>
     </message>
@@ -8304,8 +8916,8 @@ Wpisz cyfrę pomiędzy </translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="1804"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1742"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1849"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="289"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="293"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="258"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="262"/>
         <source>Down Limit</source>
         <translation type="unfinished">Limit w dół</translation>
     </message>
@@ -8324,166 +8936,170 @@ Wpisz cyfrę pomiędzy </translation>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1798"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1837"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="292"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="261"/>
         <source>Sub Arm</source>
         <translation type="unfinished">Ramię pomocnicze</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1814"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1859"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="290"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="294"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="259"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="263"/>
         <source>Backword Limit</source>
         <translation type="unfinished">Limit wstecz</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="1824"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1869"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="291"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="295"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="260"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="264"/>
         <source>Forward Limit</source>
         <translation type="unfinished">Limit do przodu</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1856"/>
-        <source>Origin</source>
-        <translation type="unfinished">Pochodzenie</translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="1893"/>
-        <source>Origin Sequence</source>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2268"/>
+        <source>ABS Servo</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2413"/>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2419"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2278"/>
+        <source>Orgin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Origin</source>
+        <translation type="obsolete">Pochodzenie</translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1856"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1862"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1904"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1910"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="385"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="397"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="354"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="366"/>
         <source>Other Define</source>
         <translation type="unfinished">Określ inne</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2431"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="386"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2038"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="355"/>
         <source>SE Door Mode</source>
         <translation type="unfinished">Tryb drzwi SE</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2439"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2081"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2094"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="331"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="300"/>
         <source>0-soft</source>
         <translation type="unfinished">0-miękki</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2474"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2116"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2129"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="338"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="307"/>
         <source>7-hard</source>
         <translation type="unfinished">7-twardy</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2489"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2230"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2148"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="340"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="309"/>
         <source>Limit</source>
         <translation type="unfinished">Limit</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2494"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2235"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2153"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="341"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="310"/>
         <source>NoLimit</source>
         <translation type="unfinished">Brak limitu</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2546"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="390"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1954"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="359"/>
         <source>Ret On Close</source>
         <translation type="unfinished">Ret On Close</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2562"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1868"/>
+        <source>%</source>
+        <translation type="unfinished">%</translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1916"/>
+        <source>Origin Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1977"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2140"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="339"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="308"/>
         <source>In Mold Limit</source>
         <translation type="unfinished">Limit w formie</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2594"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2012"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1993"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2069"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="398"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="367"/>
         <source>Use</source>
         <translation type="unfinished">Użyj</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2638"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="389"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1906"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="358"/>
         <source>Run On Close</source>
         <translation type="unfinished">Uruchomienie po zamknięciu</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2648"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="1961"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2086"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="401"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="370"/>
         <source>Adjust</source>
         <translation type="unfinished">Regulacja</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2680"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2162"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1954"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2031"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="399"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="368"/>
         <source>No Use</source>
         <translation type="unfinished">Nie używać</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2721"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2070"/>
         <source>ODST</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2762"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="391"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2206"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="360"/>
         <source>Stop On Close</source>
         <translation type="unfinished">Zatrzymanie przy zamknięciu</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2769"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2216"/>
         <source>s</source>
         <translation type="unfinished">s</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2776"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2025"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1961"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="400"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="369"/>
         <source>Servo Flex</source>
         <translation type="unfinished">Servo Flex</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2808"/>
-        <source>Abs Servo</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2818"/>
-        <source>Start Origin</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcsettings/icstructdefineframe.ui" line="2859"/>
+        <location filename="hcsettings/icstructdefineframe.ui" line="2319"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2195"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="392"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="478"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="361"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="434"/>
         <source>Save</source>
         <translation type="unfinished">Zapisz</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="999"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="330"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="299"/>
         <source>1</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8528,18 +9144,18 @@ Wpisz cyfrę pomiędzy </translation>
         <translation type="unfinished">Escape</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="402"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="403"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="371"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="372"/>
         <source>Reserve</source>
         <translation type="unfinished">Rezerwa</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="472"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Tips</source>
         <translation type="unfinished">Wskazówki</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="472"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Save Sucessfully!</source>
         <translation type="unfinished">Zapis udany!</translation>
     </message>
@@ -8892,7 +9508,7 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
 <context>
     <name>ICVirtualHost</name>
     <message>
-        <location filename="communication/icvirtualhost.cpp" line="106"/>
+        <location filename="communication/icvirtualhost.cpp" line="103"/>
         <source>Error</source>
         <translation type="unfinished">Błąd</translation>
     </message>
@@ -8912,19 +9528,19 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">Czekaj, warunek</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="112"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="262"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="333"/>
         <source>Wait EUEJB</source>
         <translation type="unfinished">Czekaj EUEJB</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="122"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="132"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="377"/>
         <source>Wait EUCOREOUT</source>
         <translation type="unfinished">Czekaj EUCOREOUT</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="132"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="282"/>
         <source>Wait X046</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8935,47 +9551,47 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">Czekaj XZacisk6</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="152"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="122"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="113"/>
         <source>Wait Security Door Closed</source>
         <translation type="unfinished">Czekaj, drzwi bezpieczeństwa zamknięte </translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="162"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="202"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="267"/>
         <source>Wait XCLIP5</source>
         <translation type="unfinished">Czekaj XZacisk5</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="172"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="272"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="223"/>
         <source>Wait XCLIP3</source>
         <translation type="unfinished">Czekaj XZacisk3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="182"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="172"/>
         <source>Wait X040</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="192"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="332"/>
         <source>Wait X036</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="202"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="212"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="245"/>
         <source>Wait XCLIP4</source>
         <translation type="unfinished">Czekaj XZacisk4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="212"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="252"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="179"/>
         <source>Wait XCLIP1</source>
         <translation type="unfinished">Czekaj XZacisk1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="222"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="302"/>
         <source>Wait X047</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8985,47 +9601,47 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="242"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="192"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="311"/>
         <source>Wait EUEJF</source>
         <translation type="unfinished">Czekaj EUEJF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="252"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="162"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="201"/>
         <source>Wait XCLIP2</source>
         <translation type="unfinished">Czekaj XZacisk2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="262"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="292"/>
         <source>Wait X026</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="272"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="312"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="135"/>
         <source>Wait X043</source>
         <translation type="unfinished">Czekaj X043</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="282"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="152"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="157"/>
         <source>Wait X044</source>
         <translation type="unfinished">Czekaj X044</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="292"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="222"/>
         <source>Wait X023</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="302"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="112"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="91"/>
         <source>Wait Mold Opened</source>
         <translation type="unfinished">Czekaj, otwarcie formy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="312"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="242"/>
         <source>Wait X037</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9035,20 +9651,10 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="332"/>
+        <location filename="hcinstruction/icwaitconditioneditor.ui" line="182"/>
         <location filename="hcinstruction/icwaitconditioneditor_5.ui" line="355"/>
         <source>Wait EUCOREIN</source>
         <translation type="unfinished">Czekaj EUCOREIN</translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="342"/>
-        <source>Wait EUCOREIN-2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="hcinstruction/icwaitconditioneditor.ui" line="352"/>
-        <source>Wait EUCOREOUT-2</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9060,17 +9666,12 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">Główna rama</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="192"/>
+        <location filename="mainframe.ui" line="193"/>
         <location filename="mainframe_5.ui" line="216"/>
         <source>Z:</source>
         <translation type="unfinished">Z:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="224"/>
-        <location filename="mainframe.ui" line="269"/>
-        <location filename="mainframe.ui" line="314"/>
-        <location filename="mainframe.ui" line="359"/>
-        <location filename="mainframe.ui" line="404"/>
         <location filename="mainframe_5.ui" line="248"/>
         <location filename="mainframe_5.ui" line="293"/>
         <location filename="mainframe_5.ui" line="338"/>
@@ -9080,39 +9681,48 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">mm    </translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="237"/>
+        <location filename="mainframe.ui" line="230"/>
+        <location filename="mainframe.ui" line="281"/>
+        <location filename="mainframe.ui" line="332"/>
+        <location filename="mainframe.ui" line="383"/>
+        <location filename="mainframe.ui" line="434"/>
+        <source>mm  </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainframe.ui" line="244"/>
         <location filename="mainframe_5.ui" line="261"/>
         <source>X1:</source>
         <translation type="unfinished">X1:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="282"/>
+        <location filename="mainframe.ui" line="295"/>
         <location filename="mainframe_5.ui" line="306"/>
         <source>Y1:</source>
         <translation type="unfinished">Y1:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="327"/>
+        <location filename="mainframe.ui" line="346"/>
         <location filename="mainframe_5.ui" line="351"/>
         <source>X2:</source>
         <translation type="unfinished">X2:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="372"/>
+        <location filename="mainframe.ui" line="397"/>
         <location filename="mainframe_5.ui" line="396"/>
         <source>Y2:</source>
         <translation type="unfinished">Y2:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="489"/>
+        <location filename="mainframe.ui" line="519"/>
         <location filename="mainframe_5.ui" line="513"/>
         <source>A:</source>
         <translation type="unfinished">A:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="521"/>
-        <location filename="mainframe.ui" line="566"/>
-        <location filename="mainframe.ui" line="611"/>
+        <location filename="mainframe.ui" line="551"/>
+        <location filename="mainframe.ui" line="596"/>
+        <location filename="mainframe.ui" line="641"/>
         <location filename="mainframe_5.ui" line="545"/>
         <location filename="mainframe_5.ui" line="590"/>
         <location filename="mainframe_5.ui" line="635"/>
@@ -9120,19 +9730,19 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">Stopień</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="534"/>
+        <location filename="mainframe.ui" line="564"/>
         <location filename="mainframe_5.ui" line="558"/>
         <source>B:</source>
         <translation type="unfinished">B:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="579"/>
+        <location filename="mainframe.ui" line="609"/>
         <location filename="mainframe_5.ui" line="603"/>
         <source>C:</source>
         <translation type="unfinished">C:</translation>
     </message>
     <message>
-        <location filename="mainframe.ui" line="631"/>
+        <location filename="mainframe.ui" line="661"/>
         <location filename="mainframe_5.ui" line="655"/>
         <source>Step</source>
         <translation type="unfinished">Krok</translation>
@@ -9169,56 +9779,66 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <translation type="unfinished">Wskazówka</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1132"/>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>Please make sure the X-axis is safe!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1144"/>
         <source>Instruct</source>
         <translation type="unfinished">Instrukcja</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
-        <location filename="mainframe.cpp" line="1148"/>
-        <location filename="mainframe.cpp" line="1552"/>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1156"/>
+        <location filename="mainframe.cpp" line="1160"/>
+        <location filename="mainframe.cpp" line="1564"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>tips</source>
         <translation type="unfinished">wskazówki</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
+        <location filename="mainframe.cpp" line="1156"/>
         <source>Spear Time %1 Hour</source>
         <translation type="unfinished">Wolny czas %1 Godzina</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1148"/>
+        <location filename="mainframe.cpp" line="1160"/>
         <source>No Register</source>
         <translation type="unfinished">Brak rejestru</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1181"/>
+        <location filename="mainframe.cpp" line="1193"/>
         <source>Records</source>
         <translation type="unfinished">Rejestr</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1552"/>
+        <location filename="mainframe.cpp" line="1564"/>
         <source>No Register. System Restart Now...</source>
         <translation type="unfinished">Brak rejestru. Restart systemu w toku...</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>Spare Time %1 Hour</source>
         <translation type="unfinished">Wolny czas %1 Godzina</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1672"/>
-        <location filename="mainframe.cpp" line="1688"/>
+        <location filename="mainframe.cpp" line="1684"/>
+        <location filename="mainframe.cpp" line="1700"/>
         <source>warning</source>
         <translation type="unfinished">ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1673"/>
+        <location filename="mainframe.cpp" line="1685"/>
         <source>%1 fnc is broken. Please remove this mold!</source>
         <translation type="unfinished">%1 fnc zepsuty. Proszę wyjąć formę</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1689"/>
+        <location filename="mainframe.cpp" line="1701"/>
         <source>%1 mold fixed. Please check the sub program!</source>
         <translation type="unfinished">%1 forma zamocowana. Proszę sprawdzić podprogram!</translation>
     </message>
@@ -9340,16 +9960,16 @@ Proszę wpisać hasło roota, aby potwierdzić.</translation>
         <location filename="function_settings/moldinformation.cpp" line="92"/>
         <location filename="function_settings/moldinformation.cpp" line="213"/>
         <location filename="function_settings/moldinformation.cpp" line="221"/>
-        <location filename="function_settings/moldinformation.cpp" line="266"/>
-        <location filename="function_settings/moldinformation.cpp" line="277"/>
-        <location filename="function_settings/moldinformation.cpp" line="303"/>
-        <location filename="function_settings/moldinformation.cpp" line="466"/>
-        <location filename="function_settings/moldinformation.cpp" line="479"/>
-        <location filename="function_settings/moldinformation.cpp" line="498"/>
-        <location filename="function_settings/moldinformation.cpp" line="508"/>
-        <location filename="function_settings/moldinformation.cpp" line="526"/>
-        <location filename="function_settings/moldinformation.cpp" line="654"/>
-        <location filename="function_settings/moldinformation.cpp" line="700"/>
+        <location filename="function_settings/moldinformation.cpp" line="278"/>
+        <location filename="function_settings/moldinformation.cpp" line="289"/>
+        <location filename="function_settings/moldinformation.cpp" line="316"/>
+        <location filename="function_settings/moldinformation.cpp" line="467"/>
+        <location filename="function_settings/moldinformation.cpp" line="480"/>
+        <location filename="function_settings/moldinformation.cpp" line="499"/>
+        <location filename="function_settings/moldinformation.cpp" line="509"/>
+        <location filename="function_settings/moldinformation.cpp" line="527"/>
+        <location filename="function_settings/moldinformation.cpp" line="655"/>
+        <location filename="function_settings/moldinformation.cpp" line="702"/>
         <source>warning</source>
         <translation type="unfinished">ostrzeżenie</translation>
     </message>
@@ -9362,12 +9982,12 @@ Proszę wpisać nazwę pliku.</translation>
     </message>
     <message>
         <location filename="function_settings/moldinformation.cpp" line="114"/>
-        <location filename="function_settings/moldinformation.cpp" line="608"/>
-        <location filename="function_settings/moldinformation.cpp" line="738"/>
-        <location filename="function_settings/moldinformation.cpp" line="746"/>
-        <location filename="function_settings/moldinformation.cpp" line="751"/>
-        <location filename="function_settings/moldinformation.cpp" line="790"/>
-        <location filename="function_settings/moldinformation.cpp" line="1008"/>
+        <location filename="function_settings/moldinformation.cpp" line="609"/>
+        <location filename="function_settings/moldinformation.cpp" line="741"/>
+        <location filename="function_settings/moldinformation.cpp" line="749"/>
+        <location filename="function_settings/moldinformation.cpp" line="754"/>
+        <location filename="function_settings/moldinformation.cpp" line="793"/>
+        <location filename="function_settings/moldinformation.cpp" line="1013"/>
         <source>Warnning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
@@ -9400,7 +10020,7 @@ Proszę zmienić nazwę.</translation>
     </message>
     <message>
         <location filename="function_settings/moldinformation.cpp" line="214"/>
-        <location filename="function_settings/moldinformation.cpp" line="278"/>
+        <location filename="function_settings/moldinformation.cpp" line="290"/>
         <source>Source file name is empty,
 Please choose an existing file.</source>
         <translation type="unfinished">Nazwa pliku źródłowego jest pusta,
@@ -9414,155 +10034,155 @@ Please write the destination file name.</source>
 Proszę wpisać nazwę pliku docelowego.</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="267"/>
+        <location filename="function_settings/moldinformation.cpp" line="279"/>
         <source>Destination file already exists!
 Please try a new name</source>
         <translation type="unfinished">Plik docelowy już istnieje!
 Wprowadź nową nazwę</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="304"/>
+        <location filename="function_settings/moldinformation.cpp" line="317"/>
         <source>File does not exist!</source>
         <translation type="unfinished">Plik nie istnieje!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="347"/>
-        <location filename="function_settings/moldinformation.cpp" line="364"/>
-        <location filename="function_settings/moldinformation.cpp" line="833"/>
-        <location filename="function_settings/moldinformation.cpp" line="984"/>
+        <location filename="function_settings/moldinformation.cpp" line="360"/>
+        <location filename="function_settings/moldinformation.cpp" line="377"/>
+        <location filename="function_settings/moldinformation.cpp" line="836"/>
+        <location filename="function_settings/moldinformation.cpp" line="989"/>
         <source>Warning</source>
         <translation type="unfinished">Ostrzeżenie</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="347"/>
-        <location filename="function_settings/moldinformation.cpp" line="364"/>
+        <location filename="function_settings/moldinformation.cpp" line="360"/>
+        <location filename="function_settings/moldinformation.cpp" line="377"/>
         <source>file name is empty</source>
         <translation type="unfinished">Nazwa pliku jest pusta</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="388"/>
+        <location filename="function_settings/moldinformation.cpp" line="401"/>
         <source>Tips</source>
         <translation type="unfinished">Wskazówki</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="388"/>
+        <location filename="function_settings/moldinformation.cpp" line="401"/>
         <source>On the Current mold already!</source>
         <translation type="unfinished">Jest już w aktualnej formie!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="397"/>
+        <location filename="function_settings/moldinformation.cpp" line="410"/>
         <source>critical</source>
         <translation type="unfinished">krytyczne</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="397"/>
+        <location filename="function_settings/moldinformation.cpp" line="410"/>
         <source>Read mold or mold para fail! Please change other mold!</source>
         <translation type="unfinished">Read mold or mold para fail! Proszę zmienić formę!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="422"/>
+        <location filename="function_settings/moldinformation.cpp" line="423"/>
         <source>Loading...</source>
         <translation type="unfinished">Ładowanie...</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="467"/>
-        <location filename="function_settings/moldinformation.cpp" line="499"/>
-        <location filename="function_settings/moldinformation.cpp" line="655"/>
-        <location filename="function_settings/moldinformation.cpp" line="701"/>
+        <location filename="function_settings/moldinformation.cpp" line="468"/>
+        <location filename="function_settings/moldinformation.cpp" line="500"/>
+        <location filename="function_settings/moldinformation.cpp" line="656"/>
+        <location filename="function_settings/moldinformation.cpp" line="703"/>
         <source>The mold file </source>
         <translation type="unfinished">Plik formy </translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="469"/>
-        <location filename="function_settings/moldinformation.cpp" line="501"/>
-        <location filename="function_settings/moldinformation.cpp" line="657"/>
-        <location filename="function_settings/moldinformation.cpp" line="703"/>
+        <location filename="function_settings/moldinformation.cpp" line="470"/>
+        <location filename="function_settings/moldinformation.cpp" line="502"/>
+        <location filename="function_settings/moldinformation.cpp" line="658"/>
+        <location filename="function_settings/moldinformation.cpp" line="705"/>
         <source> is being used</source>
         <translation type="unfinished"> jest używany</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="480"/>
-        <location filename="function_settings/moldinformation.cpp" line="509"/>
+        <location filename="function_settings/moldinformation.cpp" line="481"/>
+        <location filename="function_settings/moldinformation.cpp" line="510"/>
         <source>Stand programs can not be delete!</source>
         <translation type="unfinished">Program nie może zostać usunięty!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="527"/>
+        <location filename="function_settings/moldinformation.cpp" line="528"/>
         <source>Are you sure to delete the selected files?</source>
         <translation type="unfinished">Czy na pewno usunąć wybrane pliki?</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="608"/>
-        <location filename="function_settings/moldinformation.cpp" line="1008"/>
+        <location filename="function_settings/moldinformation.cpp" line="609"/>
+        <location filename="function_settings/moldinformation.cpp" line="1013"/>
         <source>Backup files is not exists!</source>
         <translation type="unfinished">Kopia zapasowa nie istnieje!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="664"/>
-        <location filename="function_settings/moldinformation.cpp" line="693"/>
-        <location filename="function_settings/moldinformation.cpp" line="855"/>
-        <location filename="function_settings/moldinformation.cpp" line="884"/>
+        <location filename="function_settings/moldinformation.cpp" line="665"/>
+        <location filename="function_settings/moldinformation.cpp" line="695"/>
+        <location filename="function_settings/moldinformation.cpp" line="858"/>
+        <location filename="function_settings/moldinformation.cpp" line="888"/>
         <source>tips</source>
         <translation type="unfinished">wskazówki</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="664"/>
-        <location filename="function_settings/moldinformation.cpp" line="693"/>
-        <location filename="function_settings/moldinformation.cpp" line="855"/>
-        <location filename="function_settings/moldinformation.cpp" line="884"/>
+        <location filename="function_settings/moldinformation.cpp" line="665"/>
+        <location filename="function_settings/moldinformation.cpp" line="695"/>
+        <location filename="function_settings/moldinformation.cpp" line="858"/>
+        <location filename="function_settings/moldinformation.cpp" line="888"/>
         <source>%1 is exist,replace it?</source>
         <translation type="unfinished">%1 istnieje, zamienić?</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="738"/>
+        <location filename="function_settings/moldinformation.cpp" line="741"/>
         <source>Wrong program format!</source>
         <translation type="unfinished">Niepoprawny format programu!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="746"/>
+        <location filename="function_settings/moldinformation.cpp" line="749"/>
         <source>Wrong config format!!!</source>
         <translation type="unfinished">Niepoprawny format konfiguracji!!!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="751"/>
+        <location filename="function_settings/moldinformation.cpp" line="754"/>
         <source>Wrong config format!</source>
         <translation type="unfinished">Niepoprawny format konfiguracji!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="757"/>
+        <location filename="function_settings/moldinformation.cpp" line="760"/>
         <source>Restoring, please wait...</source>
         <translation type="unfinished">Przywracanie kopii zapasowej, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="790"/>
+        <location filename="function_settings/moldinformation.cpp" line="793"/>
         <source>Wrong program format!!!</source>
         <translation type="unfinished">Niepoprawny format programu!!!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="812"/>
-        <location filename="function_settings/moldinformation.cpp" line="934"/>
+        <location filename="function_settings/moldinformation.cpp" line="815"/>
+        <location filename="function_settings/moldinformation.cpp" line="939"/>
         <source>Information</source>
         <translation type="unfinished">Informacja</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="812"/>
-        <location filename="function_settings/moldinformation.cpp" line="934"/>
+        <location filename="function_settings/moldinformation.cpp" line="815"/>
+        <location filename="function_settings/moldinformation.cpp" line="939"/>
         <source>Operation finished!</source>
         <translation type="unfinished">Operacja zakończona!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="833"/>
-        <location filename="function_settings/moldinformation.cpp" line="984"/>
+        <location filename="function_settings/moldinformation.cpp" line="836"/>
+        <location filename="function_settings/moldinformation.cpp" line="989"/>
         <source>USB is not connected!</source>
         <translation type="unfinished">USB nie jest podłączony!</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="907"/>
+        <location filename="function_settings/moldinformation.cpp" line="912"/>
         <source>Backuping, please wait...</source>
         <translation type="unfinished">Tworzenie kopii zapasowej, proszę czekać...</translation>
     </message>
     <message>
-        <location filename="function_settings/moldinformation.cpp" line="1011"/>
+        <location filename="function_settings/moldinformation.cpp" line="1016"/>
         <source>Refresh File List, please wait...</source>
         <translation type="unfinished">Odświeżanie listy plików, proszę czekać...</translation>
     </message>
@@ -9765,8 +10385,8 @@ admin</translation>
     <name>QObject</name>
     <message>
         <location filename="hcinstruction/icinstructparam.cpp" line="102"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="303"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="546"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="263"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="502"/>
         <source>Delay time:</source>
         <translation type="unfinished">Czas opóźnienia:</translation>
     </message>
@@ -9781,354 +10401,355 @@ admin</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="294"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="404"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="254"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="356"/>
         <source>Limit time:</source>
         <translation type="unfinished">Czas limitu:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="478"/>
-        <location filename="hcinstruction/icinstructparam.cpp" line="506"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="431"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="433"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="462"/>
         <source>Times:</source>
         <translation type="unfinished">Czas:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="482"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="438"/>
         <source>Selected:</source>
         <translation type="unfinished">Wybrane:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="495"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="451"/>
         <source>Off</source>
         <translation type="unfinished">Off</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="499"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="455"/>
         <source>On</source>
         <translation type="unfinished">Wł</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="541"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="497"/>
         <source>Action time:</source>
         <translation type="unfinished">Czas działania:</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="561"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="517"/>
         <source>C</source>
         <translation type="unfinished">C</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="562"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="518"/>
         <source>X1</source>
         <translation type="unfinished">X1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="563"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="519"/>
         <source>Y1</source>
         <translation type="unfinished">Y1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="564"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="520"/>
         <source>Z</source>
         <translation type="unfinished">Z</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="565"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="521"/>
         <source>X2</source>
         <translation type="unfinished">X2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="566"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="522"/>
         <source>Y2</source>
         <translation type="unfinished">Y2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="567"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="523"/>
         <source>A</source>
         <translation type="unfinished">A</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="568"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="524"/>
         <source>B</source>
         <translation type="unfinished">B</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="569"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="525"/>
         <source>3-D</source>
         <translation type="unfinished">3-D</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="570"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="526"/>
         <source>Main arm up</source>
         <translation type="unfinished">Główne ramię w górę</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="571"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="527"/>
         <source>Main arm down</source>
         <translation type="unfinished">Główne ramię w dół</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="572"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="528"/>
         <source>Main arm forward</source>
         <translation type="unfinished">Główne ramię do przodu</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="573"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="529"/>
         <source>Main arm backward</source>
         <translation type="unfinished">Główne ramię do tyłu</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="574"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="530"/>
         <source>Horizontal posture 1</source>
         <translation type="unfinished">Pozycja pozioma 1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="575"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="531"/>
         <source>Vertical posture 1</source>
         <translation type="unfinished">Pozycja pionowa 1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="576"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="532"/>
         <source>Horizontal posture 2</source>
         <translation type="unfinished">Pozycja pozioma 2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="577"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="533"/>
         <source>Vertical posture 2</source>
         <translation type="unfinished">Pozycja pionowa 2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="578"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="534"/>
         <source>Vice arm up</source>
         <translation type="unfinished">Ramię pomocnicze w górę</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="579"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="535"/>
         <source>Vice arm down</source>
         <translation type="unfinished">Ramię pomocnicze w dół</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="580"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="536"/>
         <source>Vice arm forward</source>
         <translation type="unfinished">Ramię pomocnicze w przód</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="581"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="537"/>
         <source>Vice arm backward</source>
         <translation type="unfinished">Ramię pomocnicze w tył</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="582"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="538"/>
         <source>Traverse out</source>
         <translation type="unfinished">Ruch na zewnątrz</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="583"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="539"/>
         <source>Traverse in</source>
         <translation type="unfinished">Ruch do środka</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="587"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="543"/>
         <source>Check</source>
         <translation type="unfinished">Sprawdź</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="588"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="544"/>
         <source>Mold end</source>
         <translation type="unfinished">Koniec formy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="589"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="545"/>
         <source>Parallel</source>
         <translation type="unfinished">Równoległy</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="590"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="546"/>
         <source>Wait</source>
         <translation type="unfinished">Oczekiwanie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="591"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="547"/>
         <source>Cut</source>
         <translation type="unfinished">Cięcie</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="592"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="548"/>
         <source>Other</source>
         <translation type="unfinished">Manipulator I/O</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="595"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="551"/>
         <source>Clip1 ON</source>
         <translation type="unfinished">Zacisk1 ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="596"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="552"/>
         <source>Clip2 ON</source>
         <translation type="unfinished">Zacisk2 ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="597"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="553"/>
         <source>Clip3 ON</source>
         <translation type="unfinished">Zacisk3 ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="598"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="554"/>
         <source>Clip4 ON</source>
         <translation type="unfinished">Zacisk4 ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="599"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="555"/>
         <source>Sucker1: ON</source>
         <translation type="unfinished">Ssawka1: ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="600"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="556"/>
         <source>Sucker2: ON</source>
         <translation type="unfinished">Ssawka2: ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="601"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="557"/>
         <source>Injection ON</source>
         <translation type="unfinished">Wtrysk ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="602"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="558"/>
         <source>Conveyor ON</source>
         <translation type="unfinished">Przenośnik ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="603"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="559"/>
         <source>Lock Mold ON</source>
         <translation type="unfinished">Blokada formy ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="605"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="561"/>
         <source>Eject ON</source>
         <translation type="unfinished">Wyrzut ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="606"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="562"/>
         <source>Layout ON</source>
         <translation type="unfinished">Układ ON</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="608"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="564"/>
         <source>Core1 Permit</source>
         <translation type="unfinished">Pozwolenie Rdzeń2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="609"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="565"/>
         <source>Core2 Permit</source>
         <translation type="unfinished">Pozwolenie Rdzeń2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="613"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="569"/>
         <source>Clip1 OFF</source>
         <translation type="unfinished">Zacisk1 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="614"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="570"/>
         <source>Clip2 OFF</source>
         <translation type="unfinished">Zacisk2 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="615"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="571"/>
         <source>Clip3 OFF</source>
         <translation type="unfinished">Zacisk3 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="616"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="572"/>
         <source>Clip4 OFF</source>
         <translation type="unfinished">Zacisk4 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="617"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="573"/>
         <source>Sucker1: OFF</source>
         <translation type="unfinished">Ssawka1: OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="618"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="574"/>
         <source>Sucker2: OFF</source>
         <translation type="unfinished">Ssawka2: OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="619"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="575"/>
         <source>Injection OFF</source>
         <translation type="unfinished">Wtrysk OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="620"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="576"/>
         <source>Conveyor OFF</source>
         <translation type="unfinished">Przenośnik OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="621"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="577"/>
         <source>Lock Mold OFF</source>
         <translation type="unfinished">Blokada formy OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="623"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="579"/>
         <source>Eject OFF</source>
         <translation type="unfinished">Wyrzut OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="624"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="580"/>
         <source>Layout OFF</source>
         <translation type="unfinished">Układ OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="626"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="582"/>
         <source>Core1 OFF</source>
         <translation type="unfinished">Rdzeń1 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="627"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="583"/>
         <source>Core2 OFF</source>
         <translation type="unfinished">Rdzeń 2 OFF</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="628"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="584"/>
         <source>Reserve 1</source>
         <translation type="unfinished">Rezerwa 1</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="630"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="586"/>
         <source>Reserve 2</source>
         <translation type="unfinished">Rezerwa 2</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="631"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="587"/>
         <source>Reserve 3</source>
         <translation type="unfinished">Rezerwa 3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="632"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="588"/>
         <source>Reserve 4</source>
         <translation type="unfinished">Rezerwa 4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="633"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="589"/>
         <source>Sucker 3</source>
         <translation type="unfinished">Ssawka 3</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="634"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="590"/>
         <source>Sucker 4</source>
         <translation type="unfinished">Ssawka 4</translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="636"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="592"/>
         <source>Reserve 5</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="637"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="593"/>
         <source>Reserve 6</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcinstruction/icinstructparam.cpp" line="642"/>
+        <location filename="hcinstruction/icinstructparam.cpp" line="598"/>
         <source>Clip End</source>
         <translation type="unfinished">Zacisk końcowy</translation>
     </message>

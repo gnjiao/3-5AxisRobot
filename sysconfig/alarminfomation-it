@@ -1,0 +1,459 @@
+1:Errore Virtuale
+2:Caratteri strani
+3:Manca fine programma
+4:Caratteri ignorati
+5:Orione
+6:Non a fine corsa
+7:Definizione Arco
+8:Sequenza
+9:Grande raggio
+10:Velocità eccessiva
+11:Doppia definizione I/O
+12: Nessun I/O definito
+13:Azione Gruppo in errore
+14:Gruppo standby in errore
+15:Trova il passo successivo errato
+16: Controllo fuori range
+17:Contenuto registro errato
+18:Fine controllo azione braccio-1
+19:Contenuto registro errato
+20: Contenuto registro errato
+21:Registratore azione completato
+22:Asse-X in movimento durante l'azione
+23:Asse-Y in movimento durante l'azione
+24:Asse-Z in movimento durante l'azione
+25:Timer a zero se G ha un ritardo
+26:Sovravelocità Asse-X
+27:Sovravelocità Asse-Y
+28:Sovravelocità Asse-Z
+29:Errore scrittura memoria
+30:Errore Debug
+31:Attesa Timeout CAN Servo-X
+33:Attesa Timeout CAN Servo-Y
+33:Attesa Timeout CAN Servo-Z
+34:Attesa Timeout CAN Servo-X2
+34:Attesa Timeout CAN Servo-Y2
+36:Attesa Timeout CAN Servo-A
+37:Attesa Timeout CAN Servo-B
+38:Attesa Timeout CAN Servo-C
+39:La curva è già attiva
+40:Pronti per iniziare la curva
+41:La linea è già attiva all'inizio
+42:All'inizio della linea curva
+43:Errore scrittura configurazione CAN
+44:Errore scrittura configurazione CAN
+45:Errore lettura configurazione CAN
+46:Errore cambio velocità
+60:Sovravelocità Asse-A
+61:Sovravelocità Asse-B
+62:Sovravelocità Asse-C
+63:Asse-A ancora in movimento durante l'azione
+64:Asse-B ancora in movimento durante l'azione
+65:Asse-C ancora in movimento durante l'azione
+70:Sovravelocità Asse-X2
+70:Sovravelocità Asse-Y2
+72:Asse-X2 ancora in movimento durante l'azione
+73:Asse-Y2 ancora in movimento durante l'azione
+100:Feedback pulse deviation Asse-X eccessiva
+101:Feedback pulse deviation Asse-Y eccessiva
+102:Feedback pulse deviation Asse-Z eccessiva
+103: z-pulse error Asse-X
+104: z-pulse error Asse-Y
+105: z-pulse error Asse-Z
+106:Allarme Servo Asse-X
+107:Allarme Servo Asse-Y
+108:Allarme Servo Asse-Z
+109:Pos.X persa
+110:Pos.Y persa
+111:Pos.Z persa
+112:Allarme X-Max
+113:Allarme X-Min
+114:Allarme Y-Max
+115:Allarme Y-Min
+116:Allarme Z-Max
+117:Allarme Z-Min
+118:Pos.X eccessiva
+119:Pos.X troppo bassa
+120:Pos.Y eccessiva
+121:Pos.Y troppo bassa
+122:Pos.Z eccessiva
+123:Pos.Z troppo bassa
+124:X eccessiva durante il ciclo
+125:X troppo bassa durante il ciclo
+126:Y eccessiva durante il ciclo
+127:Y troppo bassa durante il ciclo
+128:Z eccessiva durante il ciclo
+129:Z troppo bassa durante il ciclo
+130:Errore Asse-X
+131:Errore Asse-Y
+132:Errore Asse-Z
+133:Errore Struct
+134:Comparazione Asse-X
+135:Comparazione Asse-Y
+136:Comparazione Asse-Z
+137:Comparazione Struct
+138:Asse-X senza Servo
+139:Asse-Y senza Servo
+140:Asse-Z senza Servo
+160:Feedback pulse deviation Asse-X2 eccessiva
+161:Feedback pulse deviation Asse-Y2 eccessiva
+162: z-pulse error Asse-X2
+163: z-pulse error Asse-Y2
+164: Allarme Servo Asse-X2
+165: Allarme Servo Asse-Y2
+166:Pos.persa Asse-X2
+167:Pos.persa Asse-Y2
+168:Allarme X2-Max
+169:Allarme X2-Min
+170:Allarme Y2-Max
+171:Allarme Y2-Min
+172:Pos.X2 eccessiva
+173:Pos.X2 troppo bassa
+174:Pos.Y2 eccessiva
+175:Pos.Y2 troppo bassa
+176:X2 eccessiva durante il ciclo
+177:X2 troppo bassa durante il ciclo
+178:Y2 eccessiva durante il ciclo
+179:Y2 troppo bassa durante il ciclo
+180:Errore Asse-X2
+181:Errore Asse-Y2
+182:Comparazione Asse-X2
+183:Comparazione Asse-Y2
+184:Asse-X2 senza Servo
+185:Asse-Y2 senza Servo
+200:Feedback pulse deviation Asse-Y eccessiva
+201:Feedback pulse deviation Asse-B eccessiva
+202:Feedback pulse deviation Asse-C eccessiva
+203: z-pulse error Asse-A
+204: z-pulse error Asse-B
+205: z-pulse error Asse-C
+206:Allarme Servo Asse-A
+207:Allarme Servo Asse-B
+208:Allarme Servo Asse-C
+209:Pos.A persa
+210:Pos.B persa
+211:Pos.C persa
+212:Allarme A-Max
+213:Allarme A-Min
+214:Allarme B-Max
+215:Allarme B-Min
+216:Allarme C-Max
+217:Allarme C-Min
+218:Pos.A eccessiva
+219:Pos.A troppo bassa
+220:Pos.A eccessiva
+221:Pos.A troppo bassa
+222:Pos.B eccessiva
+223:Pos.B troppo bassa
+224:Pos.A eccessiva durante il ciclo
+225:Pos.A troppo bassa durante il ciclo
+226:Pos.B eccessiva durante il ciclo
+227:Pos.B troppo bassa durante il ciclo
+228:Pos.C eccessiva durante il ciclo
+229:Pos.C troppo bassa durante il ciclo
+230:Errore Asse-A
+231:Errore Asse-B
+232:Errore Asse-C
+233:SPI NULL
+234:Comparazione Asse-A
+235:Comparazione Asse-B
+236:Comparazione Asse-C
+237:COMPARE NULL
+238:Asse-A senza Servo
+239:Asse-B senza Servo
+239:Asse-C senza Servo
+300:Errore param.Asse-X
+301:Errore param.Asse-Y
+302:Errore param.Asse-Z
+303:Errore Checksum Azione
+304:Stop d'Emergenza
+305:Errore ciclo principale
+306:Errore punto di attesa
+307:Errore azione prelievo
+308:Tolleranza eccessiva
+309:Errore param.funzione stampo
+310:iSub troppo grande
+311:iSub richiama se stessa
+312:Layout non consentito
+313:Layout con sovrapposizioni
+314:Sequenza azione errata
+315:Errore parametri sistema
+316:Numero azione errato
+317:Numero azione errato
+318:Solo numero di linea
+319:Avviare in modo Automatico
+320:Sequenza non consentita
+321:Checksum errato
+322:Verifica valore GM errato
+323:Attesa stampo aperto
+324:Valore GM errato in auto-adjust
+325:Azione pinza duplicata
+326:Azione duplicata
+327:Si può richiamare solo a livello-1
+328:Verifica input dureante il ciclo
+329:Errore parametri pinza
+330:Posizione modificata, spegnere e riavvaire
+331:Errore parametri di posizione
+332:Uscita modificata, spegnere e riavvaire
+333:Asse modificato, spegnere e riavvaire
+334:Verifica errore parametri
+335:Istruzione prelievo incompleta
+336:Istruzione prelievo errata
+337:Funzione Arco
+338:Istruzione GM errata
+339:Troppo poche istruzioni
+340:Troppe istruzioni
+350: Ripetizione LABEL
+351: non esiste
+360:Errore verifica param.Asse-X2
+361:Errore verifica param.Asse-Y2
+362:Errore verifica param.Asse-A
+363:Errore verifica param.Asse-B
+364:Errore verifica param.Asse-C
+365:Errore verifica param.struct
+400:Errore lettura parametri Asse-X
+401:Errore lettura parametri Asse-Y
+402:Errore lettura parametri Asse-Z
+403:Errore lettura parametri sistema
+404:Errore lettura parametri stampo
+405:Errore lettura sottoprogramma
+405:Errore lettura parametri funzione
+500:Perso contatto con il controllo principale
+501:Errore comunicazio scheda I/O
+502:Prodotto fuori set
+503:Pressione aria bassa
+504:Watchdog comunicazione
+505:Errore programma sincronizz.
+506:Sovrapp.tempo in attesa del segnale
+507:Modifica parametri permessa solo in STOP
+530: Errore comunicazione scheda ZSIO
+531: Errore comunicazione scheda I/O n.1
+532: Errore comunicazione scheda I/O n.2
+533: Errore comunicazione scheda I/O n.3
+534: Errore comunicazione scheda I/O n.4
+535: Errore comunicazione scheda I/O n.5
+536: Errore comunicazione scheda I/O n.6
+537: Errore comunicazione scheda I/O n.7
+538: Errore comunicazione scheda I/O n.8
+539: Errore comunicazione scheda I/O n.9
+550:Impostaz.errata Asse X1-X2
+580:Allarme porta X1
+581:Allarme porta Y1
+582:Allarme porta Z
+583:Allarme porta X2
+600:Z muove fuori, ma segnale Z-interno è ON
+601:Z muove fuori, ma segnale Z-interno è OFF
+602:Z muove all'interno, ma segnale Z-esterno è ON
+603:Z muove all'interno, ma segnale Z-esterno è OFF
+604:Y scende ma segnale in alto è ON
+605:Y salito ma segnale in alto è OFF
+606:B scende ma segnale in alto è ON
+607:B salito ma segnale in alto è OFF
+608:Y2 scende ma segnale in alto è ON
+700:Tempo max.superato attesa X043
+701:Tempo max.superato attesa X044
+702:Tempo max.superato attesa pinza-1
+703:Tempo max.superato attesa pinza-2
+704:Tempo max.superato attesa pinza-3
+705:Tempo max.superato attesa pinza-4
+706:Tempo max.superato attesa ventosa-1
+707:Tempo max.superato attesa ventosa-2
+708:Tempo max.superato attesa estrattore avanti
+709:Tempo max.superato attesa estrattore indietro
+710:Tempo max.superato attesa radiali dentro
+711:Tempo max.superato attesa radiali fuori
+714:Attesa tempo max.X045
+715:Attesa tempo max.X046
+716:Attesa tempo max.X047
+717:Attesa tempo max.X026
+718:Attesa tempo max.X040
+719:Attesa tempo max.X023
+720:Attesa tempo max.X037
+721:Attesa tempo max.X017
+722:Attesa tempo max.X036
+1000:Manca segnale ap.intermedia durante la discesa
+1001:Manca segnale stampo aperto durante la discesa
+1002:Cancello aperto durante la discesa
+1003:Segnale Verticale ed Orizzontale entrambi ON
+1004:Segnale asse-Z IN ed OUT entrambi ON
+1005:Manca segnale stampo aperto durante la discesa in pressa
+1006:Posizione Orizzontale durante la discesa in pressa
+1007:Discesa braccio in pressa con asse-Z non in zona di sicurezza
+1008:Discesa braccio fuori pressa con asse-Z non in zona di sicurezza
+1009:Controllo zona sicurezza non possibile durante la discesa braccio
+1010:Controllo zona sicurezza Asse-Z non possibile durante la discesa braccio Y1
+1010:Controllo zona sicurezza Asse-X non possibile durante la discesa braccio Y2
+1012:Tutte le posizioni sono in orizzontale
+1013:Braccio-2 avanti ed indietro entrambi ON
+1014:Braccio-2 su e giù entrambi ON
+1015:Braccio-1 avanti ed indietro entrambi ON
+1016:Braccio-1 su e giù entrambi ON
+1017:Cancello aperto durante il ciclo
+1018:Controllo zona sicurezza Asse-Z non possibile durante la discesa braccio Y2
+1019:Manca segnale stampo aperto durante il riferimento
+1020:Manca segnale ap.intermedia durante il riferimento
+1021:Posizione non verticale durante il riferimento
+1022:Posizione non orizzontale durante il riferimento
+1023:Posizione non verticale durante la traslazione
+1024:Posizione non orizzontale durante la traslazione
+1025:Posizione-2 errata durante la discesa in pressa
+1026:Braccio-2 su e giù entrambi ON
+1027:Chiusura stampo non completata
+1028:Cancellazione Allarme
+1029:Manca segnale Automatico
+1030:Posizione orizzontale e non verticale
+1031:Posizione orizzontale durante la traslazione
+1038:Asse-Z non in zona di sicurezza esterna per rilascio pezzo scarto
+1038:Impostaz.Asse-Z non in zona di sicurezza esterna per rilascio pezzo scarto
+1040:Azione avanti non possibile per Asse-Z
+1052:segnale sic.Z-IN e Z-OUT e braccio su tutti OFF
+1053:NULL
+1054:Azione-X ma nessun Asse-X
+1055:Azione-Y ma nessun Asse-Y
+1056:Azione-Z ma nessun Asse-Z
+1057:Azione-X2 ma nessun Asse-X2
+1058:Azione-Y2 ma nessun Asse-Y2
+1059:Azione-A ma nessun Asse-A
+1060:Azione-B ma nessun Asse-B
+1061:Azione-C ma nessun Asse-C
+1100:Controllo zona sicurezza non possibile durante la discesa braccio-1
+1101:Controllo zona sicurezza non possibile durante la discesa braccio-2
+1102:Manca segnale stampo aperto durante la discesa braccio-1
+1103:Manca segnale stampo aperto durante la discesa braccio-2
+1104:Segnale braccio su durante discesa braccio-1
+1105:Segnale braccio su durante discesa braccio-2
+1106:Manca segnale braccio giù dopo discesa braccio-1
+1107:Manca segnale braccio giù dopo discesa braccio-2
+1108:Manca segnale ap.intermedia durante discesa braccio-1
+1109:Manca segnale ap.intermedia durante discesa braccio-2
+1120:Controllo zona sicurezza IN e OUT non possibile durante la discesa braccio-1
+1121:Controllo zona sicurezza IN e OUT non possibile durante la discesa braccio-2
+1122:Velocità eccessiva durante la salita braccio-1
+1123:Velocità eccessiva durante la salita braccio-2
+1124:Manca segnale stampo aperto durante discesa braccio-1
+1125:Manca segnale stampo aperto durante discesa braccio-2
+1126:Manca segnale braccio su dopo salita braccio-1
+1127:Manca segnale braccio su dopo salita braccio-2
+1140:Segnale braccio indietro dopo avanzamento braccio-1
+1141:Segnale braccio indietro dopo avanzamento braccio-2
+1142:Manca segnale indietro dopo arretramento braccio-1
+1143:Manca segnale indietro dopo arretramento braccio-2
+1144:Manca segnale avanti dopo avanzamento braccio-1
+1145:Manca segnale avanti dopo avanzamento braccio-2
+1146:Segnale braccio avanti dopo arretramento braccio-1
+1147:Segnale braccio avanti dopo arretramento braccio-2
+1160:Controllo braccio-1 in alto non possibile durante il cambio di posizione
+1161:Controllo braccio-2 in alto non possibile durante il cambio di posizione
+1162:Manca segnale stampo aperto durante il cambio di posizione-1
+1163:Manca segnale orizzontale dopo posizionam.orizzontale braccio-1
+1164:Manca segnale verticale dopo posizionam.verticale braccio-1
+1165:Fuori zona di sicurezza dopo posizionam.orizzontale
+1170:Controllo braccio-1 in alto non possibile durante il cambio di posizione
+1171:Controllo braccio-2 in alto non possibile durante il cambio di posizione
+1172:Manca segnale stampo aperto durante il cambio di posizione-2
+1173:Manca segnale orizzontale dopo posizionam.orizzontale braccio-2
+1174:Manca segnale verticale dopo posizionam.verticale braccio-2
+1180:Manca segnale braccio-1 in alto durante la traslazione IN e OUT
+1181:Manca segnale braccio-2 in alto durante la traslazione IN e OUT
+1182:Manca segnale IN dopo la traslazione IN
+1182:Manca segnale OUT dopo la traslazione OUT
+1184:Posizione non corrisponde al comando dopo la Traslaz.OUT
+1185:Manca segnale stampo aperto durante la traslazione IN
+1186:Manca segnale braccio-1 in alto durante la traslazione verso la zona interdetta
+1187:Manca segnale braccio-2 in alto durante la traslazione verso la zona interdetta
+1188:Asse-Y1 non è in zona sicurezza durante la traslazione verso la zona interdetta
+1189:Manca segnale braccio-1 in alto durante la traslazione verso pressa
+1190:Manca segnale braccio-1 in alto durante la traslazione verso esterno
+1191:Controllo braccio-1 in alto non possibile durante la traslazione in manuale
+1192:Pos.attuale al di sotto della posizione di sicurezza
+1192:Pos.attuale al di fuori della posizione di sicurezza
+1194: Y2 non è in alto
+1195: Attendere il seganle Y1-Y2 in alto durante la traslazione
+1200: Manca segnale Pinza-1 mentre la valvola è ON
+1201: Presenza segnale Pinza-1 mentre la valvola è OFF
+1202: Manca segnale Pinza-2 mentre la valvola è ON
+1203: Presenza segnale Pinza-2 mentre la valvola è OFF
+1204: Manca segnale Pinza-3 mentre la valvola è ON
+1205: Presenza segnale Pinza-3 mentre la valvola è OFF
+1206: Manca segnale Pinza-4 mentre la valvola è ON
+1207: Presenza segnale Pinza-4 mentre la valvola è OFF
+1208: Presenza segnale Ventose-1 mentre la valvola è OFF
+1209: Manca segnale Ventose-1 mentre la valvola è ON
+1210: Presenza segnale Ventose-2 mentre la valvola è OFF
+1211: Manca segnale Ventose-2 mentre la valvola è ON
+1212: Presenza segnale Pinza-7 mentre la valvola è OFF
+1213: Manca segnale Pinza-7 mentre la valvola è ON
+1214: Presenza segnale Pinza-8 mentre la valvola è OFF
+1215: Manca segnale Pinza-8 mentre la valvola è ON
+1250:Impossibile controllare X037
+1251:Impossibile controllare X023
+1300:Verificare la pos.di attesa
+1301:Verificare la pos.braccio-1 in alto
+1302:Verificare la pos.braccio-2 in alto
+1303:Verificare la pos.di attesa X
+1304:Verificare la pos.di attesa Y
+1305:Verificare la pos.di attesa Z
+1306:Verificare la pos.di attesa Pinza-1
+1307:Verificare la pos.di attesa Pinza-2
+1308:Verificare la pos.di attesa Pinza-3
+1309:Verificare la pos.di attesa Pinza-4
+1310:Verificare la pos.di attesa Ventose-1
+1311:Verificare la pos.di attesa Ventose-2
+1312:Verificare la pos.di attesa A
+1313:Verificare la pos.di attesa B
+1314:Verificare la pos.di attesa C
+1315:Verificare la pos.di attesa X2
+1316:Verificare la pos.di attesa Y2
+1400: Non tutti i segnali sono ON
+1401: Pos.corrente e pos.attesa non sono entrambi IN
+1402: Pos.corrente e pos.attesa non sono entrambi OUT
+1403:Controllo braccio-2 in alto non possibile
+1410:Segnali di sicurezza OFF
+1411:Timeout rimozione segnale esterno di sicurezza
+2000:Errore Servo, controllare l'azionamento
+2001:Sovraccarico Corrente Servo
+2002:Sovratensione Servo
+2003:Tensione Servo troppo bassa
+2004:Anomalia resistenza di frenatura
+2005:Sovraccarico Servo
+2006:Velocità eccessiva Servo
+2007:Errore eccessivo controllo posizione
+2008:Guasto interno dell'encoder
+2009:Errore correzione posizione motoriduttore
+2010:Stop d'Emergenza
+2011:Sovrariscaldamento Transistor
+2012:Anomalia circuito di alimentazione principale
+2013:Preavviso sovraccarico
+2014:Errore collisione motore
+2015:Errore connessione UVW
+2016:Errore eccessivo controllo posizione anello chiuso
+2017:Overflow ricezione pdo
+2018:Eccezione accesso pdo
+2019:Errore nella funzione di protezione
+2020:Anomalia hardware Can-Bus
+2021:Eccezione sincronizzazione comunicazione Can-Bus
+2022:Impostaz.filtro speciale eccessiva
+2023:Limite Servo
+2024:Limite Reverse Servo
+2100:Anomalia Servo
+2101:Sovraccarico Corrente Servo
+2102:Sovratensione circuito primario Servo
+2103:Tensione circuito primario Servo troppo bassa
+2104:Tensione Servo troppo bassa
+2105:Uscita Servo in corto circuito
+2106:Cavo alimentazione difettoso
+2107:Sovraccarico resistenza di frenatura
+2108:Guasto interno dell'encoder
+2109:Cavo motore difettoso
+2110:Sovratemperatura dissipatore Servo
+2111:Errore memorizz.parametri Servo
+2112:Anomalia parametri impostati Servo
+2113:Motore in stallo
+2114:Guasto interno dell'encoder
+2115:Sovravelocità motore
+2116:Deviazione posizione Drive eccessiva
+2117:Anomalia impulsi comando Drive
+2118:Timeout portezione nodo CANopen
+2119:Errore lunghezza trasmissione PDO CANopen
+2120:Selettore inversione Servo ativato
+4000:Tempo del test, prego registrare

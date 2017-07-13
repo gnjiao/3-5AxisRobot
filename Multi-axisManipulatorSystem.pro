@@ -42,7 +42,7 @@ MOC_DIR = temp_$${suffix}
 RCC_DIR = temp_$${suffix}
 
 TRUNK_VERSION = 6.1.1
-APP_VERSION = BORUNTE-HUICHUAN-ZENGLIANG-3.4
+APP_VERSION = BORUNTE-HUICHUAN-ZENGLIANG-3.5
 S_VERSION = $${APP_VERSION}_$${HostType}_$${TRUNK_VERSION}
 contains(DEFINES, Compatible6410){
 S_VERSION = $${S_VERSION}_cp6410
@@ -177,7 +177,11 @@ TRANSLATIONS += Multi-axisManipulatorSystem_ch.ts \
     Multi-axisManipulatorSystem_esp.ts \
     Multi-axisManipulatorSystem_nl.ts \
     Multi-axisManipulatorSystem_fr.ts \
-    Multi-axisManipulatorSystem_kr.ts
+    Multi-axisManipulatorSystem_kr.ts \
+    Multi-axisManipulatorSystem_hk.ts \
+    Multi-axisManipulatorSystem_it.ts \
+    Multi-axisManipulatorSystem_pl.ts \
+    Multi-axisManipulatorSystem_tr.ts
 
 
 OTHER_FILES += \
@@ -214,6 +218,7 @@ stylesheet.path = /opt/Qt/apps/stylesheet
 stylesheet.files += $${configsPathBase}/stylesheet/*
 others.path = /opt/Qt/apps
 others.files += $${configsPathBase}/3-5AxisRobotDatabase
+others.files += $${configsPathBase}/*.qm
 scripts.path = /usr/bin
 scripts.files += $${configsPathBase}/$${SK_SIZE}RunApp/*
 keymap.path = /home/root

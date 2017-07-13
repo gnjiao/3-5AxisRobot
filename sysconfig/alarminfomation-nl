@@ -377,7 +377,7 @@
 2015: UVW bedrading error
 2016: Closed-loop puntsbesturing fout is te groot
 2017: BOB ontvangen overflow
-toegang uitzondering pdo: 2018
+2018: toegang uitzondering pdo
 2019: hartslag of bescherming knooppunt fout
 2020: can uitzondering bus hardware
 2021: kan de communicatie anomalie te synchroniseren
@@ -396,7 +396,7 @@ toegang uitzondering pdo: 2018
 2109: motorvermogen kabelbreuk
 2110: Drive oververhitting radiator
 2111: Drive parameter opslag falen
-uitzondering Drive ingestelde parameters: 2112
+2112: uitzondering Drive ingestelde parameters
 2113: Motor Stall
 2114: Encoder interne fout
 2115: Motor snelheidsoverschrijding

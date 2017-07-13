@@ -4,15 +4,17 @@ cp qt_es.qm /opt/Qt/apps -f
 cp Multi-axisManipulatorSystem* /opt/Qt/apps -f
 cp Base.* /opt/Qt/apps/records -f
 cp hwclock.sh /etc/init.d -f
-cp psplash-default /usr/bin/psplash-default -f
 cp closeled.sh /etc/rc0.d/S89closeled.sh
 chmod +x /etc/rc0.d/S89closeled.sh
 cp LedTest_335x /usr/sbin/LedTest_335x -f
 chmod +x usr/sbin/LedTest_335x
 rm /opt/Qt/fonts/*
-tar -xzf ./WenQuanYi.ttf.tar.gz -C /opt/Qt/fonts
+tar -xJf ./WenQuanYi.ttf.tar.xz -C /opt/Qt/fonts
 cp QtAutorun.sh /usr/bin -f
 cp 3-5AxisRobotDatabase /opt/Qt/apps -f
+cp qt_ko.qm /opt/Qt/apps -f
+cp qt_zh_TW.qm /opt/Qt/apps -f
+cp qt_lt.qm /opt/Qt/apps -f
 
 #cd 3a8
 #cp -rf records subs sysconfig /mnt/database
