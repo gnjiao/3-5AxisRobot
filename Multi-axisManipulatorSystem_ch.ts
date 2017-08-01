@@ -11832,20 +11832,20 @@ Please input the root password to confirm.</source>
         <translation>步序</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
-        <location filename="mainframe.cpp" line="1148"/>
-        <location filename="mainframe.cpp" line="1552"/>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1156"/>
+        <location filename="mainframe.cpp" line="1160"/>
+        <location filename="mainframe.cpp" line="1564"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>tips</source>
         <translation>提示</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>Spare Time %1 Hour</source>
         <translation>剩余时间:%1小时</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1148"/>
+        <location filename="mainframe.cpp" line="1160"/>
         <source>No Register</source>
         <translation>没有注册</translation>
     </message>
@@ -11864,33 +11864,47 @@ Please input the root password to confirm.</source>
         <translation>监视</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>hint</source>
+        <translation>提示</translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>Please make sure the X-axis is safe!</source>
+        <translation>请确认X轴是否安全!</translation>
+    </message>
+    <message>
+        <source>Is the X-axis safe?</source>
+        <translation type="obsolete">X轴是否安全？</translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1156"/>
         <source>Spear Time %1 Hour</source>
         <translation>剩余时间:%1小时</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1181"/>
+        <location filename="mainframe.cpp" line="1193"/>
         <source>Records</source>
         <translation>档案</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1552"/>
+        <location filename="mainframe.cpp" line="1564"/>
         <source>No Register. System Restart Now...</source>
         <translation>没有注册，系统现在重启...</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1672"/>
-        <location filename="mainframe.cpp" line="1688"/>
+        <location filename="mainframe.cpp" line="1684"/>
+        <location filename="mainframe.cpp" line="1700"/>
         <source>warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1673"/>
+        <location filename="mainframe.cpp" line="1685"/>
         <source>%1 fnc is broken. Please remove this mold!</source>
         <translation>%1 模组参数丢失.请删除这个模号!</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1689"/>
+        <location filename="mainframe.cpp" line="1701"/>
         <source>%1 mold fixed. Please check the sub program!</source>
         <translation>%1模号格式更新.请检查该模号使用的子程序是否正确!</translation>
     </message>
@@ -11952,7 +11966,7 @@ Please input the root password to confirm.</source>
         <translation type="obsolete">还没进行原点!</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1132"/>
+        <location filename="mainframe.cpp" line="1144"/>
         <source>Instruct</source>
         <translation>教导</translation>
     </message>

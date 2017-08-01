@@ -10119,56 +10119,66 @@ Core fuera</translation>
         <translation>Sugerencia</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1132"/>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1115"/>
+        <source>Please make sure the X-axis is safe!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainframe.cpp" line="1144"/>
         <source>Instruct</source>
         <translation>Instrucción</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
-        <location filename="mainframe.cpp" line="1148"/>
-        <location filename="mainframe.cpp" line="1552"/>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1156"/>
+        <location filename="mainframe.cpp" line="1160"/>
+        <location filename="mainframe.cpp" line="1564"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>tips</source>
         <translation>Sugerencia</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1144"/>
+        <location filename="mainframe.cpp" line="1156"/>
         <source>Spear Time %1 Hour</source>
         <translation>Tiempo Libre: %1 Hora</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1148"/>
+        <location filename="mainframe.cpp" line="1160"/>
         <source>No Register</source>
         <translation>No hay registro</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1181"/>
+        <location filename="mainframe.cpp" line="1193"/>
         <source>Records</source>
         <translation>Registros</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1552"/>
+        <location filename="mainframe.cpp" line="1564"/>
         <source>No Register. System Restart Now...</source>
         <translation>No hay registro, el sistema va a reiniciar</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1629"/>
+        <location filename="mainframe.cpp" line="1641"/>
         <source>Spare Time %1 Hour</source>
         <translation>Tiempo Libre: %1 Hora</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1672"/>
-        <location filename="mainframe.cpp" line="1688"/>
+        <location filename="mainframe.cpp" line="1684"/>
+        <location filename="mainframe.cpp" line="1700"/>
         <source>warning</source>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1673"/>
+        <location filename="mainframe.cpp" line="1685"/>
         <source>%1 fnc is broken. Please remove this mold!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="mainframe.cpp" line="1689"/>
+        <location filename="mainframe.cpp" line="1701"/>
         <source>%1 mold fixed. Please check the sub program!</source>
         <translation type="unfinished"></translation>
     </message>

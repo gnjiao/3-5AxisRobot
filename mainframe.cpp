@@ -725,14 +725,14 @@ void MainFrame::CategoryButtonClicked()
 
 void MainFrame::StatusRefreshed()
 {
-
+//    QMessageBox::question(this,tr("hint"),tr("Please make sure the X-axis is safe!"),
+//                                     QMessageBox::Ok, QMessageBox::Ok);
+//    ShowOrigin();
     //static ICAlarmString* alarmString = ICAlarmString::Instance();
 #ifdef HC_TEST
 
     ICCommandProcessor::Instance()->ExecuteHCCommand(IC::CMD_TuneMold, 0);
 #endif
-
-
     static ICVirtualHost* virtualHost = ICVirtualHost::GlobalVirtualHost();
 
     //    if(isXPosChanged_)
@@ -1102,6 +1102,18 @@ void MainFrame::StatusRefreshed()
         }
         else if(runningStatus_ == ICVirtualHost::Origin)
         {
+//            if(QMessageBox::Yes == QMessageBox::question(this,tr("hint"),tr("Is the X-axis safe?"),
+//                                  QMessageBox::Yes | QMessageBox::No, QMessageBox::No))
+//            {
+//                ShowOrigin();
+//            }
+//            else
+//            {
+//                ICCommandProcessor* commandProcessor = ICCommandProcessor::Instance();
+//                commandProcessor->ExecuteVirtualKeyCommand(IC::VKEY_STOP);
+//            }
+            QMessageBox::question(this,tr("hint"),tr("Please make sure the X-axis is safe!"),
+                                             QMessageBox::Ok, QMessageBox::Ok);
             ShowOrigin();
         }
         else if(runningStatus_ == ICVirtualHost::Return)
