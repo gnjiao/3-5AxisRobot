@@ -9406,7 +9406,7 @@ de mol</translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="2319"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2195"/>
         <location filename="hcsettings/icstructdefineframe.cpp" line="361"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="433"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="434"/>
         <source>Save</source>
         <translation>guardar</translation>
     </message>
@@ -9463,12 +9463,12 @@ de mol</translation>
         <translation>Extender</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="427"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Tips</source>
         <translation>Sugerencia</translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="427"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Save Sucessfully!</source>
         <translation>Guardar con éxito!</translation>
     </message>

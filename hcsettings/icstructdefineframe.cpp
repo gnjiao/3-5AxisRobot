@@ -193,7 +193,7 @@ ICStructDefineFrame::ICStructDefineFrame(QWidget *parent) :
 
     ui->originSpeed->SetDecimalPlaces(0);
     ui->originSpeed->setValidator(new QIntValidator(1, 10, this));
-    ui->originSpeed->SetThisIntToThisText(ICVirtualHost::GlobalVirtualHost()->SystemParameter(ICVirtualHost::SYS_Config_Resv2).toInt());
+    ui->originSpeed->SetThisIntToThisText(ICVirtualHost::GlobalVirtualHost()->SystemParameter(ICVirtualHost::ACT_B_Sec1).toInt());
 
     ui->odst->SetDecimalPlaces(1);
     ui->odst->setValidator(new QIntValidator(0, 30000, this));
@@ -396,7 +396,7 @@ void ICStructDefineFrame::on_saveButton_clicked()
 //    data.split.a7 = ui->portB->currentIndex() == 0 ? 0 : ui->portB->currentIndex() + 7;
 //    data.split.a8 = ui->portC->currentIndex() == 0 ? 0 : ui->portC->currentIndex() + 7;
     dataBuffer[4] = ui->servoFlex->currentIndex();
-    dataBuffer[5] = ui->originSpeed->TransThisTextToThisInt();
+    dataBuffer[5] = ICVirtualHost::GlobalVirtualHost()->SystemParameter(ICVirtualHost::SYS_Config_Resv2).toInt();
     for(int i = 0; i != 6; ++i)
     {
         sum += dataBuffer.at(i);
@@ -420,6 +420,7 @@ void ICStructDefineFrame::on_saveButton_clicked()
         host->SetSystemParameter(ICVirtualHost::SYS_Config_Xorsum, dataBuffer.at(6));
         host->SetOutDownSecurityCheck(ui->odstEn->isChecked());
         host->SetSystemParameter(ICVirtualHost::ACT_GBSUB, ui->odst->TransThisTextToThisInt());
+        host->SetSystemParameter(ICVirtualHost::ACT_B_Sec1, ui->originSpeed->TransThisTextToThisInt());
         ICParametersSave::Instance()->SetAbsServo(ui->absServo->isChecked());
 //        host->SystemParameter(ICVirtualHost::SYS_Function);
         host->SaveSystemConfig();

@@ -9181,7 +9181,7 @@ n Close</translation>
         <location filename="hcsettings/icstructdefineframe.ui" line="2319"/>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2195"/>
         <location filename="hcsettings/icstructdefineframe.cpp" line="361"/>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="433"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="434"/>
         <source>Save</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9252,12 +9252,12 @@ n Close</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="427"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Tips</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="hcsettings/icstructdefineframe.cpp" line="427"/>
+        <location filename="hcsettings/icstructdefineframe.cpp" line="428"/>
         <source>Save Sucessfully!</source>
         <translation type="unfinished"></translation>
     </message>
