@@ -246,15 +246,15 @@ void ICKeyboardHandler::Keypressed(int keyValue)
     case ICKeyboard::VFB_Pose_Horizontal:
     case ICKeyboard::VFB_Pose_Vertical:
     {
-        if(status == ICVirtualHost::Stop ||
-                (
-                icMainFrame->CurrentLevel() < ICParametersSave::MachineAdmin &&
-                ! ICVirtualHost::GlobalVirtualHost()->IsOrigined()
-                    )
-           )
-        {
-            return;
-        }
+//        if(status == ICVirtualHost::Stop ||
+//                (
+//                icMainFrame->CurrentLevel() < ICParametersSave::MachineAdmin &&
+//                ! ICVirtualHost::GlobalVirtualHost()->IsOrigined()
+//                    )
+//           )
+//        {
+//            return;
+//        }
         commandProcessor->ExecuteVirtualKeyCommand(virtualKeyMap_.value(keyValue));
     }
     break;
