@@ -9692,148 +9692,148 @@ e de maintenance</translation>
         <location filename="hcmaintains/icupdatesystempage.ui" line="344"/>
         <location filename="hcmaintains/icupdatesystempage_5.ui" line="338"/>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="89"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="154"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="155"/>
         <source>Restart</source>
         <translation type="unfinished">recom-
 mencer</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="72"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="143"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="144"/>
         <source>Name</source>
         <translation type="unfinished">nom</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="73"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="144"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="145"/>
         <source>Create Time</source>
         <translation type="unfinished">date de -
 création</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="84"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="149"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
         <source>Item-1</source>
         <translation type="unfinished">Item-1</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="84"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="149"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
         <source>Item-2</source>
         <translation type="unfinished">Item-2</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="84"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="149"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
         <source>Item-3</source>
         <translation type="unfinished">item-3</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="85"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="151"/>
         <source>Item-4</source>
         <translation type="unfinished">Item-4</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="85"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="151"/>
         <source>Item-5</source>
         <translation type="unfinished">Item-5</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="85"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="151"/>
         <source>Item-6</source>
         <translation type="unfinished">Item-6</translation>
     </message>
     <message>
         <location filename="hcmaintains/icupdatesystempage.cpp" line="85"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="150"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="151"/>
         <source>Item-7</source>
         <translation type="unfinished">Item-7</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="209"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="386"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="210"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="387"/>
         <source>System Updating...</source>
         <translation type="unfinished">mise à jour d-
 u système ...</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="239"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="240"/>
         <source>No available New SuperPassward</source>
         <translation type="unfinished">No available New SuperPassward</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="241"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="242"/>
         <source>New SuperPassward</source>
         <translation type="unfinished">New Super Password</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="348"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="349"/>
         <source>tips</source>
         <translation type="unfinished">tips</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="348"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="349"/>
         <source>Update Host Successful!</source>
         <translation type="unfinished">Hôte mise à jour réussie!</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="415"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="416"/>
         <source>warning</source>
         <translation type="unfinished">adverti-
 ssement</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="415"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="416"/>
         <source>USB is not exist!</source>
         <translation type="unfinished">USB n&apos;existe pas</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="480"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="481"/>
         <source>Warning</source>
         <translation type="unfinished">adverti-
 ssement</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="481"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="482"/>
         <source>Old password is wrong</source>
         <translation type="unfinished">L&apos;ancien mot de-
  passe est faux!</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="488"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="499"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="489"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="500"/>
         <source>Scanning...</source>
         <translation type="unfinished">Scanning…</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="536"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="537"/>
         <source>Back to Factory</source>
         <translation type="unfinished">Back to Factory</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="536"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="537"/>
         <source>Back to factory will lost all the sysconfig and panel settings.
 Please input the root password to confirm.</source>
         <translation type="unfinished">&quot;Factory réinitialise tous les paramètres de la machine et manuelle des paramètres du module de pa-
 ramètres seront conservés. S&apos;il vous plaît entrer confirmation senior mot de passe administrateur.&quot;</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="583"/>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="590"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="584"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="591"/>
         <source>Tips</source>
         <translation type="unfinished">tips</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="583"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="584"/>
         <source>Back to factory successfully! Now reboot!</source>
         <translation type="unfinished">Restaurer le succès de l&apos;usi-
 ne! Va maintenant redémarrer!</translation>
     </message>
     <message>
-        <location filename="hcmaintains/icupdatesystempage.cpp" line="590"/>
+        <location filename="hcmaintains/icupdatesystempage.cpp" line="591"/>
         <source>Wrong password!</source>
         <translation type="unfinished">Mot de pass-
 e incorrect!</translation>

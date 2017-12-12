@@ -111,6 +111,7 @@ ICUpdateSystemPage::ICUpdateSystemPage(QWidget *parent) :
 
             ui->scanHost->hide();
     ui->connectHostButton->hide();
+    ui->updateLogoButton->hide();
 
 }
 
