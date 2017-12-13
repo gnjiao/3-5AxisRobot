@@ -1624,6 +1624,9 @@ QRadioButton::indicator:unchecked:disabled
          <height>381</height>
         </rect>
        </property>
+       <property name="styleSheet">
+        <string notr="true"/>
+       </property>
       </widget>
       <widget class="QWidget" name="">
        <property name="geometry">
