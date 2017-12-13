@@ -1020,7 +1020,7 @@ ModifyTime</source>
         <location filename="iccaretipui.ui" line="212"/>
         <location filename="iccaretipui.ui" line="232"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {0?}</translation>
     </message>
     <message>
         <location filename="iccaretipui.cpp" line="13"/>
@@ -4582,6 +4582,26 @@ Avanzato</translation>
         <source>umount</source>
         <translation type="unfinished">Smonta</translation>
     </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1634"/>
+        <source>Ghost</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1675"/>
+        <source>New</source>
+        <translation type="unfinished">Nuovo</translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1688"/>
+        <source>Scan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="hcsettings/ichcsystemsettingsframe.ui" line="1701"/>
+        <source>Load</source>
+        <translation type="unfinished">Carica</translation>
+    </message>
     <message utf8="true">
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="172"/>
         <source>中文</source>
@@ -7593,7 +7613,7 @@ a di sicurezza</translation>
         <location filename="hcinstruction/icprogramguidepage.ui" line="798"/>
         <location filename="hcinstruction/icprogramguidepage_5.ui" line="1421"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {1?}</translation>
     </message>
     <message>
         <location filename="hcinstruction/icprogramguidepage.ui" line="851"/>
@@ -9076,42 +9096,42 @@ or Mode</translation>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="999"/>
         <location filename="hcsettings/icstructdefineframe.cpp" line="299"/>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {1?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1006"/>
         <source>5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {5?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1013"/>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {2?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1020"/>
         <source>8</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {8?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1053"/>
         <source>6</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {6?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1060"/>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {3?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1067"/>
         <source>7</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {7?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="1074"/>
         <source>4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {4?}</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe_5.ui" line="2079"/>
@@ -10810,7 +10830,7 @@ Avanzato</translation>
         <location filename="custom_widgets/lineeditwithvirtualnumerickeypad/virtualnumerickeypaddialog.ui" line="45"/>
         <location filename="custom_widgets/lineeditwithvirtualnumerickeypad/virtualnumerickeypaddialog_5.ui" line="45"/>
         <source>0</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reserve {0?}</translation>
     </message>
     <message>
         <location filename="custom_widgets/lineeditwithvirtualnumerickeypad/virtualnumerickeypaddialog.ui" line="458"/>
