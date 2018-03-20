@@ -73,6 +73,8 @@ private slots:
     void OnConfigChanged(bool b);
     void on_originBtn_clicked();
 
+    void on_absServo_toggled(bool checked);
+
 private:
     QMap<QObject*, int> editorToConfigIDs_;
 

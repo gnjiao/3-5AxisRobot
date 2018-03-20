@@ -9,6 +9,7 @@
 #include "icactioncommand.h"
 
 #include <QVector>
+#include <QMessageBox>
 //#include "icmessagebox.h"
 #include <QDebug>
 #include "mainframe.h"
@@ -421,6 +422,7 @@ void ICStructDefineFrame::on_saveButton_clicked()
         host->SetOutDownSecurityCheck(ui->odstEn->isChecked());
         host->SetSystemParameter(ICVirtualHost::ACT_GBSUB, ui->odst->TransThisTextToThisInt());
         host->SetSystemParameter(ICVirtualHost::ACT_B_Sec1, ui->originSpeed->TransThisTextToThisInt());
+        host->SetSystemParameter(ICVirtualHost::ACT_B_Sec2, (ui->absServo->isChecked())?1:0);
         ICParametersSave::Instance()->SetAbsServo(ui->absServo->isChecked());
 //        host->SystemParameter(ICVirtualHost::SYS_Function);
         host->SaveSystemConfig();
@@ -546,4 +548,15 @@ void ICStructDefineFrame::on_originBtn_clicked()
 {
     ICCommandProcessor::Instance()->ExecuteHCCommand(IC::CMD_TurnZero, 0);
 
+}
+
+void ICStructDefineFrame::on_absServo_toggled(bool checked)
+{
+    if(checked) return;
+    int result;
+    result = ICMessageBox::ICWarning(this, tr("Tips"), tr("Cancel the AbsServo origin will clear the origin!"),QMessageBox::Yes|QMessageBox::No,QMessageBox::No);
+    if(result == QMessageBox::No)
+    {
+        ui->absServo->setChecked(true);
+    }
 }

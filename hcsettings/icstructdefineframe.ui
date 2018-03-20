@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>819</width>
+    <width>832</width>
     <height>380</height>
    </rect>
   </property>
@@ -25,7 +25,7 @@
    <item>
     <widget class="QTabWidget" name="tabWidget">
      <property name="currentIndex">
-      <number>0</number>
+      <number>3</number>
      </property>
      <widget class="QWidget" name="tab">
       <attribute name="title">
@@ -2339,15 +2339,15 @@ QRadioButton::indicator:unchecked:disabled
  <resources/>
  <connections/>
  <buttongroups>
-  <buttongroup name="buttonGroupG"/>
-  <buttongroup name="buttonGroupH"/>
   <buttongroup name="buttonGroup"/>
+  <buttongroup name="buttonGroupH"/>
+  <buttongroup name="buttonGroupG"/>
+  <buttongroup name="buttonGroupE"/>
   <buttongroup name="buttonGroup_2"/>
-  <buttongroup name="buttonGroupA"/>
+  <buttongroup name="buttonGroupF"/>
   <buttongroup name="buttonGroupB"/>
+  <buttongroup name="buttonGroupA"/>
   <buttongroup name="buttonGroupC"/>
   <buttongroup name="buttonGroupD"/>
-  <buttongroup name="buttonGroupE"/>
-  <buttongroup name="buttonGroupF"/>
  </buttongroups>
 </ui>
