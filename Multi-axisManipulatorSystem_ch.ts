@@ -10938,8 +10938,12 @@ Please enter an digit between </source>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.cpp" line="557"/>
+        <source>Cancel the AbsServo will clear the origin!</source>
+        <translation>取消绝对值伺服将会清掉原点！</translation>
+    </message>
+    <message>
         <source>Cancel the AbsServo origin will clear the origin!</source>
-        <translation>取消绝对值伺服原点会清掉原点！</translation>
+        <translation type="obsolete">取消绝对值伺服原点会清掉原点！</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.ui" line="2230"/>

@@ -9515,7 +9515,7 @@ de mol</translation>
     </message>
     <message>
         <location filename="hcsettings/icstructdefineframe.cpp" line="557"/>
-        <source>Cancel the AbsServo origin will clear the origin!</source>
+        <source>Cancel the AbsServo will clear the origin!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

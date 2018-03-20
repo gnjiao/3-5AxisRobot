@@ -554,7 +554,7 @@ void ICStructDefineFrame::on_absServo_toggled(bool checked)
 {
     if(checked) return;
     int result;
-    result = ICMessageBox::ICWarning(this, tr("Tips"), tr("Cancel the AbsServo origin will clear the origin!"),QMessageBox::Yes|QMessageBox::No,QMessageBox::No);
+    result = ICMessageBox::ICWarning(this, tr("Tips"), tr("Cancel the AbsServo will clear the origin!"),QMessageBox::Yes|QMessageBox::No,QMessageBox::No);
     if(result == QMessageBox::No)
     {
         ui->absServo->setChecked(true);
