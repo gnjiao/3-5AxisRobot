@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>365</width>
-    <height>529</height>
+    <height>567</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -80,7 +80,7 @@ QRadioButton::indicator:unchecked:disabled
      </property>
     </widget>
    </item>
-   <item row="13" column="1">
+   <item row="14" column="1">
     <widget class="QCheckBox" name="backwardBox">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
@@ -253,7 +253,7 @@ QRadioButton::indicator:unchecked:disabled
      </property>
     </widget>
    </item>
-   <item row="14" column="0" colspan="2">
+   <item row="15" column="0" colspan="2">
     <widget class="QDialogButtonBox" name="buttonBox">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Preferred" vsizetype="Fixed">
@@ -311,7 +311,7 @@ QRadioButton::indicator:unchecked:disabled
      </property>
     </widget>
    </item>
-   <item row="12" column="0">
+   <item row="13" column="0">
     <widget class="QCheckBox" name="verticalBox">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
@@ -371,7 +371,7 @@ QRadioButton::indicator:unchecked:disabled
      </attribute>
     </widget>
    </item>
-   <item row="13" column="0">
+   <item row="14" column="0">
     <widget class="QCheckBox" name="forwardBox">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
@@ -572,7 +572,7 @@ QRadioButton::indicator:unchecked:disabled
      </property>
     </widget>
    </item>
-   <item row="12" column="1">
+   <item row="13" column="1">
     <widget class="QCheckBox" name="horizontalBox">
      <property name="sizePolicy">
       <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
@@ -667,6 +667,9 @@ QRadioButton::indicator:unchecked:disabled
      </property>
     </widget>
    </item>
+   <item row="5" column="1">
+    <widget class="ICComboBox" name="flagBox"/>
+   </item>
    <item row="4" column="3">
     <widget class="QLabel" name="delayUnitLabel">
      <property name="text">
@@ -678,16 +681,6 @@ QRadioButton::indicator:unchecked:disabled
     <widget class="QLabel" name="positionLabel">
      <property name="text">
       <string>Position</string>
-     </property>
-    </widget>
-   </item>
-   <item row="5" column="1">
-    <widget class="ICComboBox" name="flagBox"/>
-   </item>
-   <item row="6" column="3">
-    <widget class="QLabel" name="limitUnitLabel">
-     <property name="text">
-      <string>s</string>
      </property>
     </widget>
    </item>
@@ -713,6 +706,13 @@ QRadioButton::indicator:unchecked:disabled
      </property>
      <property name="text">
       <string>Limit Time</string>
+     </property>
+    </widget>
+   </item>
+   <item row="6" column="3">
+    <widget class="QLabel" name="limitUnitLabel">
+     <property name="text">
+      <string>s</string>
      </property>
     </widget>
    </item>
@@ -742,6 +742,42 @@ QRadioButton::indicator:unchecked:disabled
      </property>
      <property name="horizontalScrollBarPolicy">
       <enum>Qt::ScrollBarAlwaysOff</enum>
+     </property>
+    </widget>
+   </item>
+   <item row="12" column="0">
+    <widget class="QCheckBox" name="suckStopBox">
+     <property name="styleSheet">
+      <string notr="true">::indicator {
+     width: 32px;
+     height: 32px;
+ }
+
+::indicator:unchecked 
+{
+     image: url(:/resource/check_unchecked.png);
+ }
+::indicator:checked 
+{
+     image: url(:/resource/check_checked.png);
+ }
+
+QRadioButton::indicator:checked:disabled
+{
+ image: url(:/resource/check_checked_disable.png);
+}
+
+QRadioButton::indicator:unchecked:disabled
+{
+ image: url(:/resource/check_unchecked_disable.png);
+}
+
+
+
+</string>
+     </property>
+     <property name="text">
+      <string>Suck Stop</string>
      </property>
     </widget>
    </item>

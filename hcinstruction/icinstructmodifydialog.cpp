@@ -118,6 +118,7 @@ bool ICInstructModifyDialog::ShowModifyItem(ICMoldItem *item)
     ui->selectLabel->hide();
     
     ui->badProductBox->hide();
+    ui->suckStopBox->hide();
     
     ui->horizontalBox->hide();
     ui->verticalBox->hide();
@@ -226,6 +227,11 @@ bool ICInstructModifyDialog::ShowModifyItem(ICMoldItem *item)
         {
             ui->badProductBox->show();
             ui->badProductBox->setText(tr("Bad Product"));
+        }
+        if( item->Action() == ICMold::GY)
+        {
+            ui->suckStopBox->show();
+            ui->suckStopBox->setText(tr("Suck Stop"));
         }
 #ifdef X1_BAD_FUNC
         if( item->Action() == ICMold::GX)
@@ -381,6 +387,7 @@ bool ICInstructModifyDialog::ShowModifyItem(ICMoldItem *item)
     ui->earlyDownSpeedTimeEdit->SetThisIntToThisText(item->GetEarlyDownSpeed());    ///
     
     ui->badProductBox->setChecked(item->IsBadProduct());
+    ui->suckStopBox->setChecked(item->IsBadProduct());
     
     int isok = exec();
     if(isok == QDialog::Accepted)
@@ -421,6 +428,10 @@ bool ICInstructModifyDialog::ShowModifyItem(ICMoldItem *item)
         if(!ui->badProductBox->isHidden())
         {
             item->SetBadProduct(ui->badProductBox->isChecked());
+        }
+        if(!ui->suckStopBox->isHidden())
+        {
+            item->SetBadProduct(ui->suckStopBox->isChecked());
         }
         
         if(ui->earlySpeedDownCheckBox->isChecked())

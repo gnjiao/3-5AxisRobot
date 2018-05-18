@@ -164,6 +164,10 @@ QString ICInstructParam::ConvertCommandStr(const ICMoldItem & moldItem)
             {
                 commandStr += QObject::tr("Bad Product En") + " ";
             }
+            if(moldItem.IsBadProduct() && moldItem.Action() == GY)
+            {
+                commandStr += QObject::tr("Suck Stop En") + " ";
+            }
 #ifdef X1_BAD_FUNC
             if(moldItem.IsBadProduct() && moldItem.Action() == GX)
             {
