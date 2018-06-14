@@ -6845,12 +6845,12 @@ cal-1</translation>
     <message>
         <location filename="categorypage/icmonitorpageframe.cpp" line="136"/>
         <source>Y042</source>
-        <translation>Z slow down</translation>
+        <translation>Stop</translation>
     </message>
     <message>
         <location filename="categorypage/icmonitorpageframe.cpp" line="137"/>
         <source>Y043</source>
-        <translation>Motor Hold</translation>
+        <translation>Run</translation>
     </message>
     <message>
         <location filename="categorypage/icmonitorpageframe.cpp" line="138"/>
