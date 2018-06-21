@@ -48,7 +48,8 @@ int main(int argc, char *argv[])
     paraSave->SetBrightness(ICParametersSave::Instance()->Brightness(), false);
 
     a.setGlobalStrut(QSize(32, 32));
-    paraSave->SetCountry(paraSave->Country(), false);
+    paraSave->SetCountry(QLocale::China, false);
+//    paraSave->SetCountry(paraSave->Country(), false);
 //    paraSave->LoadInitLocale();
     ICVirtualHost host;
     MainFrame w(splash);

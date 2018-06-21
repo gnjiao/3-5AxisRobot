@@ -126,6 +126,12 @@ ICHCSystemSettingsFrame::ICHCSystemSettingsFrame(QWidget *parent) :
 
 //            ui->turkeyBox->hide();
 //            ui->koreanBox->hide();
+              ui->label->hide();
+    QList<QAbstractButton*> lbtns = ui->languageButtonGroup->buttons();
+    for(int i = 0; i < lbtns.size(); ++i)
+    {
+        lbtns[i]->hide();
+    }
 }
 
 ICHCSystemSettingsFrame::~ICHCSystemSettingsFrame()
