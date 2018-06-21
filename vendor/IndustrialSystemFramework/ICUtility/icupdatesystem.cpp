@@ -3,6 +3,7 @@
 #include <errno.h>
 #include <QDebug>
 #include <QProcess>
+#include <QMessageBox>
 
 ICUpdateSystem::ICUpdateSystem():
     unpackCmd_("decrypt.sh")
@@ -51,6 +52,13 @@ bool ICUpdateSystem::StartUpdate(const QString &packName)
             tmpDir.cdUp();
             tmpFile = tmpDir.absoluteFilePath("HCUpdateTmp/" + tarDirs.at(0));
             system(QString("chmod 777 %1/ -R").arg(tmpFile).toUtf8());
+            QDir check(tmpFile.toUtf8());
+            if(!check.exists("canupdate"))
+            {
+                system(QString("rm %1/*.tar").arg(QDir::tempPath()).toUtf8());
+                QMessageBox::warning(NULL, QObject::tr("Warning"), QObject::tr("Invalid Updater!"));
+                return false;
+            }
             system(QString("cd %1 && ./UpdateSystem.sh").arg(tmpFile).toUtf8());
             system(QString("rm %1/*.tar").arg(QDir::tempPath()).toUtf8());
 //            system(QString("cp %1/%2/UpdateSystem.sh %1/UpdateApps && sync && umount /mnt/udisk && reboot").arg(dataDir).arg(tmpFile.mid(4)).toLatin1());

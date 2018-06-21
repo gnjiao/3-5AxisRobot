@@ -14,6 +14,13 @@
 
 int main(int argc, char *argv[])
 {    
+    if(argc >= 2)
+    {
+        if(strcasecmp(argv[1], "-isonlycn") == 0)
+        {
+            return 2;
+        }
+    }
     QApplication a(argc, argv);
     QApplication::setWindowIcon(QIcon("./resource/logo_icon.png"));
     QTextCodec *textc = QTextCodec::codecForName("UTF-8");

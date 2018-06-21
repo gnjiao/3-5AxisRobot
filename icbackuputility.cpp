@@ -148,11 +148,17 @@ void ICBackupUtility::LoadGhost(const QString &name)
 #else
     QDir dir = QDir::current();
 #endif
+    ::system("cp Multi-axisManipulatorSystem Multi-axisManipulatorSystem.backup");
     if(dir.exists(name))
     {
         ::system(QString("cd %2 && dd if=%1 | openssl des3 -d -k szhcSZHCGaussCheng | tar zxf - -C /")
                    .arg(dir.absoluteFilePath(name))
                    .arg(dir.absolutePath()).toUtf8());
+        ::system("sync");
+    }
+    if(::system("./Multi-axisManipulatorSystem -isonlycn") != 2)
+    {
+        ::system("cp Multi-axisManipulatorSystem.backup Multi-axisManipulatorSystem -f");
         ::system("sync");
     }
 }
