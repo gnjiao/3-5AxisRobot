@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_CN" sourcelanguage="en_US">
+<TS version="2.0" language="zh_CN" sourcelanguage="en_US">
 <context>
     <name>ActionSettingFrame</name>
     <message>
@@ -5531,7 +5531,7 @@ Reason</source>
         <source>Mechanical length</source>
         <translation type="obsolete">机械长度</translation>
     </message>
-    <message>
+    <message utf8="true">
         <location filename="hcsettings/ichcsystemsettingsframe_5.ui" line="172"/>
         <source>中文</source>
         <translation></translation>
@@ -13201,12 +13201,12 @@ Admin</source>
         <translation>夹放</translation>
     </message>
     <message>
-        <location filename="vendor/IndustrialSystemFramework/ICUtility/icupdatesystem.cpp" line="58"/>
+        <location filename="vendor/IndustrialSystemFramework/ICUtility/icupdatesystem.cpp" line="59"/>
         <source>Warning</source>
         <translation>警告</translation>
     </message>
     <message>
-        <location filename="vendor/IndustrialSystemFramework/ICUtility/icupdatesystem.cpp" line="58"/>
+        <location filename="vendor/IndustrialSystemFramework/ICUtility/icupdatesystem.cpp" line="59"/>
         <source>Invalid Updater!</source>
         <translation>非法更新包!</translation>
     </message>
