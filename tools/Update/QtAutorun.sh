@@ -22,6 +22,7 @@ fi
 
 if [ -f "/mnt/udisk/SelectSystemBootWay" ];then
     cd /mnt/udisk/
+	if [ -f "/mnt/udisk/Reinstall/canupdate_ml" ];then
     ./SelectSystemBootWay -qws
 else
     echo "normal boot system(/usr/bin/QtAutorun.sh)"
