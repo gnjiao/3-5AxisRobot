@@ -53,7 +53,7 @@ bool ICUpdateSystem::StartUpdate(const QString &packName)
             tmpFile = tmpDir.absoluteFilePath("HCUpdateTmp/" + tarDirs.at(0));
             system(QString("chmod 777 %1/ -R").arg(tmpFile).toUtf8());
             QDir check(tmpFile.toUtf8());
-            if(!check.exists("canupdate_ml"))
+            if((!check.exists("canupdate_ml")) && packName.contains("HCRobotPanel"))
             {
                 system(QString("rm %1/*.tar").arg(QDir::tempPath()).toUtf8());
                 QMessageBox::warning(NULL, QObject::tr("Warning"), QObject::tr("Invalid Updater!"));
